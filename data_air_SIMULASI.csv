@@ -1,0 +1,1501 @@
+sesi,area,jenis_titik,kondisi_pdam,level_toren,area_dialiri,curah_hujan,kondisi_air
+pagi,Kelas 11,toilet,kecil,penuh,L.RU,kering,kecil
+pulang,Kelas 10,toilet,mati,setengah,Kelas 10,kering,kecil
+istirahat 2,L.RU,toilet,hidup,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,toilet,kecil,hampir habis,L.RU,kering,habis
+istirahat 1,Kelas 11,toilet,mati,setengah,Kelas 10,kering,habis
+pulang,L.RU,wastafel,kecil,setengah,Kelas 10,kering,kecil
+pagi,Kelas 12,wastafel,mati,setengah,L.RU,kering,kecil
+istirahat 2,Kelas 10,wastafel,mati,setengah,Kelas 12,hujan,habis
+pagi,Kelas 12,wastafel,hidup,hampir habis,Kelas 10,hujan,kecil
+pagi,Kelas 11,toilet,kecil,penuh,Kelas 12,hujan,kecil
+istirahat 2,Kelas 10,wastafel,kecil,hampir habis,Kelas 11,hujan,habis
+pulang,L.RU,wastafel,mati,setengah,Kelas 12,hujan,habis
+istirahat 2,Kelas 11,tempat wudu,kecil,penuh,Kelas 12,kering,kecil
+pulang,Kelas 10,toilet,hidup,penuh,Kelas 11,kering,lancar
+istirahat 2,L.RU,wastafel,kecil,penuh,Kelas 10,kering,habis
+pulang,Kelas 12,wastafel,hidup,hampir habis,Kelas 10,kering,kecil
+istirahat 2,Kelas 10,wastafel,mati,setengah,Kelas 12,kering,habis
+pagi,L.RU,tempat wudu,kecil,setengah,Kelas 10,hujan,kecil
+pulang,Kelas 10,wastafel,kecil,hampir habis,Kelas 11,hujan,habis
+istirahat 1,Kelas 10,toilet,mati,setengah,L.RU,hujan,kecil
+istirahat 2,Kelas 12,wastafel,kecil,hampir habis,Kelas 12,hujan,habis
+istirahat 1,Kelas 11,tempat wudu,kecil,hampir habis,Kelas 11,hujan,habis
+pagi,L.RU,wastafel,mati,hampir habis,Kelas 10,kering,habis
+pulang,L.RU,tempat wudu,mati,hampir habis,Kelas 11,hujan,habis
+pulang,Kelas 11,wastafel,mati,hampir habis,Kelas 10,hujan,habis
+istirahat 2,L.RU,wastafel,hidup,setengah,L.RU,hujan,lancar
+istirahat 1,Kelas 10,tempat wudu,kecil,hampir habis,Kelas 12,kering,habis
+pulang,L.RU,toilet,hidup,penuh,Kelas 12,kering,lancar
+istirahat 2,L.RU,tempat wudu,mati,hampir habis,Kelas 12,hujan,habis
+istirahat 1,Kelas 12,toilet,kecil,hampir habis,Kelas 10,kering,habis
+istirahat 1,L.RU,toilet,kecil,penuh,Kelas 10,kering,kecil
+pagi,L.RU,tempat wudu,hidup,hampir habis,L.RU,kering,kecil
+pagi,Kelas 12,wastafel,hidup,hampir habis,Kelas 11,kering,kecil
+istirahat 2,L.RU,tempat wudu,kecil,penuh,Kelas 10,kering,habis
+pulang,Kelas 12,tempat wudu,hidup,setengah,Kelas 12,hujan,lancar
+pagi,L.RU,toilet,hidup,hampir habis,Kelas 12,hujan,habis
+pulang,L.RU,toilet,mati,hampir habis,L.RU,hujan,habis
+pulang,L.RU,tempat wudu,mati,penuh,Kelas 12,kering,kecil
+istirahat 1,Kelas 11,tempat wudu,hidup,setengah,L.RU,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,hidup,hampir habis,Kelas 10,kering,habis
+pagi,Kelas 10,wastafel,mati,penuh,Kelas 10,kering,lancar
+pulang,L.RU,tempat wudu,kecil,setengah,Kelas 12,kering,habis
+istirahat 2,L.RU,tempat wudu,kecil,penuh,Kelas 11,hujan,kecil
+istirahat 1,Kelas 11,wastafel,hidup,penuh,Kelas 12,hujan,lancar
+pagi,L.RU,tempat wudu,hidup,setengah,Kelas 11,kering,kecil
+pulang,Kelas 11,toilet,hidup,hampir habis,Kelas 12,kering,kecil
+istirahat 1,Kelas 11,toilet,kecil,setengah,Kelas 12,kering,kecil
+pulang,Kelas 12,toilet,hidup,hampir habis,Kelas 12,kering,lancar
+istirahat 2,Kelas 10,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+pulang,L.RU,toilet,kecil,setengah,Kelas 10,kering,kecil
+pulang,Kelas 10,toilet,mati,penuh,Kelas 12,kering,kecil
+pagi,Kelas 12,tempat wudu,mati,penuh,Kelas 12,kering,kecil
+istirahat 1,Kelas 11,toilet,kecil,setengah,Kelas 12,hujan,kecil
+istirahat 1,Kelas 11,wastafel,kecil,penuh,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,toilet,kecil,penuh,Kelas 12,kering,kecil
+pagi,L.RU,wastafel,hidup,penuh,Kelas 11,kering,kecil
+istirahat 2,Kelas 12,toilet,kecil,hampir habis,Kelas 11,kering,habis
+pagi,Kelas 12,tempat wudu,kecil,setengah,L.RU,kering,kecil
+istirahat 2,Kelas 12,wastafel,kecil,hampir habis,Kelas 11,hujan,habis
+istirahat 2,Kelas 12,tempat wudu,mati,hampir habis,Kelas 11,hujan,habis
+pulang,Kelas 10,tempat wudu,mati,setengah,Kelas 12,kering,habis
+istirahat 2,Kelas 10,tempat wudu,hidup,penuh,Kelas 12,kering,kecil
+istirahat 1,L.RU,wastafel,hidup,setengah,Kelas 10,kering,kecil
+pulang,Kelas 12,tempat wudu,hidup,penuh,Kelas 10,kering,lancar
+istirahat 1,Kelas 11,toilet,hidup,setengah,Kelas 12,kering,kecil
+istirahat 1,Kelas 10,wastafel,hidup,setengah,Kelas 12,hujan,kecil
+pulang,Kelas 12,toilet,hidup,setengah,L.RU,kering,lancar
+istirahat 1,Kelas 11,toilet,mati,setengah,Kelas 10,kering,habis
+pagi,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 12,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,mati,hampir habis,L.RU,kering,habis
+pulang,L.RU,wastafel,hidup,hampir habis,Kelas 12,hujan,kecil
+pagi,Kelas 10,wastafel,hidup,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 11,tempat wudu,kecil,setengah,L.RU,kering,kecil
+pagi,Kelas 12,toilet,hidup,penuh,Kelas 12,kering,lancar
+istirahat 2,L.RU,wastafel,hidup,hampir habis,Kelas 11,hujan,habis
+istirahat 1,Kelas 10,toilet,mati,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 11,tempat wudu,hidup,setengah,Kelas 12,kering,kecil
+pagi,Kelas 12,toilet,hidup,setengah,Kelas 10,kering,lancar
+istirahat 2,L.RU,tempat wudu,kecil,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 11,wastafel,kecil,setengah,Kelas 11,hujan,lancar
+pulang,Kelas 10,wastafel,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,L.RU,toilet,hidup,setengah,Kelas 10,kering,kecil
+pagi,Kelas 11,tempat wudu,mati,setengah,Kelas 11,kering,kecil
+pulang,Kelas 10,tempat wudu,hidup,setengah,Kelas 10,kering,lancar
+istirahat 2,Kelas 11,wastafel,kecil,setengah,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,wastafel,kecil,setengah,Kelas 12,hujan,kecil
+pagi,Kelas 12,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+istirahat 1,L.RU,tempat wudu,hidup,penuh,Kelas 11,kering,lancar
+pulang,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 12,kering,kecil
+pulang,L.RU,wastafel,hidup,setengah,Kelas 12,hujan,kecil
+istirahat 1,Kelas 11,wastafel,hidup,hampir habis,Kelas 12,kering,kecil
+pulang,Kelas 10,wastafel,hidup,setengah,Kelas 11,kering,lancar
+pulang,Kelas 10,toilet,kecil,hampir habis,Kelas 10,kering,kecil
+istirahat 1,L.RU,tempat wudu,hidup,setengah,Kelas 12,kering,kecil
+pulang,Kelas 11,toilet,kecil,hampir habis,Kelas 11,hujan,kecil
+istirahat 1,L.RU,toilet,hidup,setengah,L.RU,kering,kecil
+pagi,Kelas 11,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 11,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 12,tempat wudu,hidup,penuh,Kelas 12,kering,lancar
+pagi,Kelas 11,tempat wudu,hidup,setengah,L.RU,kering,lancar
+pulang,Kelas 10,wastafel,hidup,setengah,Kelas 11,kering,lancar
+pagi,Kelas 11,tempat wudu,mati,setengah,Kelas 11,kering,kecil
+pulang,Kelas 12,tempat wudu,hidup,setengah,L.RU,hujan,lancar
+pagi,Kelas 10,wastafel,kecil,setengah,Kelas 11,hujan,kecil
+pulang,L.RU,toilet,kecil,setengah,Kelas 12,kering,kecil
+pulang,Kelas 12,tempat wudu,mati,penuh,Kelas 11,hujan,kecil
+pulang,L.RU,toilet,kecil,hampir habis,Kelas 11,hujan,habis
+istirahat 2,Kelas 11,wastafel,kecil,setengah,Kelas 10,kering,habis
+istirahat 1,L.RU,toilet,mati,hampir habis,L.RU,kering,habis
+istirahat 2,L.RU,tempat wudu,hidup,penuh,L.RU,kering,kecil
+istirahat 1,Kelas 12,wastafel,mati,setengah,Kelas 10,kering,kecil
+pulang,L.RU,toilet,hidup,penuh,Kelas 11,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,kecil,hampir habis,L.RU,kering,habis
+istirahat 1,Kelas 11,toilet,mati,setengah,Kelas 12,hujan,kecil
+istirahat 2,L.RU,wastafel,kecil,hampir habis,Kelas 11,kering,habis
+istirahat 2,L.RU,wastafel,kecil,setengah,Kelas 10,hujan,kecil
+pagi,Kelas 12,wastafel,hidup,setengah,Kelas 12,kering,lancar
+pagi,Kelas 11,wastafel,kecil,setengah,L.RU,kering,kecil
+pagi,L.RU,tempat wudu,hidup,setengah,Kelas 12,hujan,kecil
+pagi,Kelas 12,toilet,kecil,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 10,wastafel,kecil,setengah,Kelas 10,kering,lancar
+istirahat 2,L.RU,toilet,hidup,penuh,Kelas 10,kering,kecil
+istirahat 2,Kelas 12,wastafel,hidup,penuh,Kelas 12,kering,lancar
+istirahat 1,L.RU,wastafel,hidup,penuh,Kelas 10,kering,kecil
+pulang,Kelas 11,wastafel,hidup,hampir habis,Kelas 12,kering,habis
+istirahat 2,Kelas 12,toilet,hidup,setengah,Kelas 10,kering,kecil
+pagi,Kelas 11,toilet,mati,penuh,Kelas 10,kering,kecil
+pulang,Kelas 11,toilet,kecil,hampir habis,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,wastafel,hidup,penuh,Kelas 11,kering,lancar
+istirahat 2,L.RU,toilet,kecil,setengah,Kelas 10,kering,habis
+istirahat 2,Kelas 11,wastafel,mati,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 12,wastafel,hidup,hampir habis,Kelas 10,kering,habis
+pagi,L.RU,toilet,hidup,hampir habis,Kelas 11,hujan,kecil
+istirahat 2,Kelas 12,tempat wudu,hidup,setengah,L.RU,kering,kecil
+pulang,Kelas 10,toilet,hidup,hampir habis,L.RU,kering,kecil
+istirahat 1,Kelas 11,tempat wudu,mati,penuh,Kelas 12,kering,kecil
+istirahat 2,L.RU,wastafel,mati,hampir habis,L.RU,hujan,habis
+pagi,Kelas 11,wastafel,hidup,hampir habis,Kelas 10,kering,kecil
+istirahat 1,L.RU,wastafel,kecil,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 10,wastafel,hidup,setengah,Kelas 10,kering,lancar
+pulang,Kelas 11,wastafel,kecil,penuh,Kelas 10,kering,kecil
+pagi,L.RU,wastafel,mati,hampir habis,L.RU,kering,habis
+istirahat 1,Kelas 10,wastafel,hidup,setengah,Kelas 12,kering,kecil
+istirahat 1,Kelas 11,wastafel,hidup,setengah,Kelas 11,kering,lancar
+pulang,L.RU,toilet,kecil,hampir habis,Kelas 12,kering,habis
+pulang,Kelas 10,wastafel,mati,setengah,Kelas 12,kering,habis
+pagi,Kelas 10,wastafel,hidup,setengah,Kelas 10,hujan,lancar
+pagi,Kelas 11,toilet,hidup,setengah,L.RU,kering,kecil
+pulang,Kelas 12,toilet,hidup,penuh,Kelas 10,hujan,lancar
+pagi,Kelas 12,tempat wudu,kecil,penuh,L.RU,hujan,kecil
+pulang,L.RU,toilet,kecil,penuh,Kelas 11,hujan,kecil
+istirahat 1,L.RU,tempat wudu,mati,hampir habis,L.RU,hujan,habis
+pulang,L.RU,tempat wudu,mati,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 11,toilet,mati,setengah,Kelas 11,kering,kecil
+istirahat 1,L.RU,tempat wudu,mati,setengah,Kelas 10,kering,habis
+istirahat 2,L.RU,toilet,hidup,hampir habis,Kelas 12,kering,habis
+pagi,Kelas 12,toilet,kecil,hampir habis,Kelas 12,kering,kecil
+istirahat 2,Kelas 12,toilet,hidup,hampir habis,Kelas 10,kering,kecil
+istirahat 2,Kelas 12,toilet,hidup,setengah,L.RU,kering,kecil
+pulang,Kelas 10,toilet,mati,hampir habis,Kelas 10,hujan,habis
+pulang,Kelas 11,tempat wudu,kecil,setengah,Kelas 11,kering,kecil
+istirahat 2,Kelas 11,toilet,mati,setengah,Kelas 12,kering,habis
+istirahat 1,L.RU,tempat wudu,kecil,hampir habis,Kelas 10,kering,habis
+istirahat 1,Kelas 11,tempat wudu,kecil,setengah,Kelas 11,kering,lancar
+istirahat 1,Kelas 11,tempat wudu,kecil,setengah,Kelas 10,hujan,kecil
+pulang,Kelas 10,wastafel,hidup,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 12,toilet,hidup,setengah,Kelas 10,kering,kecil
+pagi,Kelas 11,tempat wudu,kecil,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 11,toilet,hidup,hampir habis,Kelas 10,kering,kecil
+pagi,Kelas 11,wastafel,mati,setengah,Kelas 10,kering,habis
+pagi,Kelas 12,wastafel,hidup,penuh,Kelas 10,hujan,lancar
+pagi,Kelas 11,toilet,hidup,hampir habis,Kelas 12,kering,kecil
+pulang,Kelas 10,wastafel,mati,setengah,Kelas 10,kering,kecil
+istirahat 2,Kelas 12,wastafel,hidup,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 11,toilet,mati,penuh,Kelas 11,kering,kecil
+istirahat 1,Kelas 12,wastafel,kecil,setengah,Kelas 11,hujan,kecil
+istirahat 2,L.RU,wastafel,hidup,setengah,Kelas 10,hujan,kecil
+pagi,Kelas 10,tempat wudu,kecil,hampir habis,Kelas 12,kering,kecil
+pulang,Kelas 12,tempat wudu,kecil,penuh,L.RU,kering,lancar
+istirahat 2,Kelas 11,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+pulang,Kelas 12,tempat wudu,mati,setengah,Kelas 12,kering,habis
+pagi,L.RU,tempat wudu,kecil,setengah,Kelas 10,kering,kecil
+istirahat 1,L.RU,toilet,kecil,setengah,Kelas 11,hujan,kecil
+istirahat 2,Kelas 12,tempat wudu,hidup,penuh,L.RU,kering,kecil
+istirahat 1,Kelas 10,wastafel,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 11,toilet,mati,setengah,Kelas 12,hujan,habis
+pagi,Kelas 10,toilet,kecil,setengah,Kelas 11,hujan,lancar
+istirahat 1,Kelas 10,wastafel,kecil,setengah,Kelas 11,kering,kecil
+pagi,Kelas 12,tempat wudu,kecil,setengah,Kelas 12,kering,kecil
+istirahat 1,L.RU,toilet,mati,penuh,Kelas 10,kering,habis
+istirahat 2,Kelas 12,tempat wudu,mati,penuh,Kelas 10,hujan,kecil
+istirahat 2,Kelas 12,toilet,hidup,penuh,L.RU,kering,lancar
+istirahat 2,Kelas 11,toilet,hidup,penuh,Kelas 11,kering,lancar
+istirahat 1,Kelas 10,tempat wudu,kecil,setengah,Kelas 11,kering,kecil
+pulang,L.RU,toilet,kecil,penuh,Kelas 12,kering,kecil
+pagi,Kelas 11,tempat wudu,kecil,hampir habis,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,tempat wudu,hidup,penuh,L.RU,hujan,lancar
+pagi,L.RU,toilet,kecil,penuh,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,toilet,kecil,hampir habis,Kelas 12,kering,habis
+pulang,Kelas 12,tempat wudu,kecil,setengah,L.RU,hujan,kecil
+istirahat 1,Kelas 10,toilet,kecil,setengah,Kelas 10,kering,kecil
+pulang,L.RU,toilet,kecil,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 11,toilet,kecil,hampir habis,Kelas 10,kering,habis
+istirahat 2,L.RU,tempat wudu,mati,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 12,tempat wudu,kecil,penuh,Kelas 11,kering,kecil
+istirahat 1,Kelas 12,toilet,kecil,setengah,Kelas 11,kering,kecil
+pulang,Kelas 12,toilet,kecil,hampir habis,Kelas 11,kering,habis
+pulang,Kelas 12,toilet,hidup,hampir habis,Kelas 11,kering,kecil
+istirahat 1,L.RU,wastafel,hidup,penuh,Kelas 12,kering,kecil
+pulang,L.RU,tempat wudu,kecil,setengah,Kelas 12,hujan,kecil
+istirahat 1,Kelas 10,toilet,mati,setengah,Kelas 10,kering,kecil
+istirahat 2,Kelas 10,tempat wudu,kecil,penuh,Kelas 12,hujan,kecil
+pulang,Kelas 12,wastafel,hidup,hampir habis,Kelas 11,kering,kecil
+istirahat 1,Kelas 11,toilet,kecil,setengah,Kelas 11,kering,kecil
+istirahat 2,Kelas 11,wastafel,hidup,setengah,Kelas 10,kering,habis
+istirahat 1,Kelas 12,tempat wudu,kecil,penuh,Kelas 10,kering,kecil
+pagi,Kelas 11,tempat wudu,mati,setengah,Kelas 11,kering,kecil
+pagi,Kelas 10,wastafel,kecil,penuh,Kelas 10,kering,lancar
+istirahat 1,Kelas 10,toilet,kecil,setengah,Kelas 10,kering,kecil
+pulang,Kelas 11,wastafel,hidup,penuh,Kelas 12,kering,lancar
+pagi,L.RU,toilet,kecil,hampir habis,Kelas 10,kering,habis
+istirahat 1,Kelas 11,tempat wudu,mati,penuh,Kelas 11,kering,habis
+istirahat 2,Kelas 11,toilet,kecil,setengah,L.RU,kering,habis
+pagi,Kelas 11,toilet,kecil,penuh,L.RU,kering,lancar
+istirahat 2,Kelas 11,wastafel,hidup,penuh,Kelas 12,kering,kecil
+istirahat 1,Kelas 12,toilet,hidup,penuh,L.RU,kering,lancar
+pulang,Kelas 12,wastafel,hidup,penuh,Kelas 12,kering,lancar
+istirahat 2,Kelas 11,wastafel,hidup,penuh,Kelas 12,kering,kecil
+istirahat 2,Kelas 10,toilet,hidup,setengah,Kelas 10,kering,lancar
+pagi,L.RU,toilet,mati,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 12,toilet,kecil,penuh,Kelas 10,hujan,kecil
+pulang,Kelas 12,tempat wudu,hidup,setengah,Kelas 12,kering,lancar
+pagi,Kelas 11,toilet,hidup,setengah,L.RU,hujan,lancar
+pulang,Kelas 12,tempat wudu,hidup,penuh,Kelas 10,kering,kecil
+istirahat 1,Kelas 12,wastafel,mati,setengah,Kelas 10,kering,habis
+istirahat 2,Kelas 12,wastafel,hidup,penuh,Kelas 12,kering,lancar
+istirahat 2,Kelas 11,wastafel,mati,penuh,L.RU,kering,habis
+istirahat 1,L.RU,toilet,mati,setengah,Kelas 12,kering,habis
+istirahat 1,L.RU,toilet,hidup,hampir habis,L.RU,hujan,kecil
+istirahat 2,L.RU,tempat wudu,kecil,hampir habis,Kelas 10,kering,habis
+pagi,Kelas 10,tempat wudu,mati,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 11,tempat wudu,kecil,setengah,L.RU,kering,habis
+pagi,Kelas 10,toilet,hidup,penuh,Kelas 10,kering,lancar
+istirahat 2,L.RU,wastafel,mati,setengah,Kelas 12,hujan,habis
+istirahat 2,L.RU,toilet,mati,penuh,Kelas 12,kering,habis
+pagi,Kelas 12,toilet,kecil,penuh,L.RU,kering,kecil
+pulang,Kelas 12,toilet,kecil,penuh,Kelas 11,hujan,lancar
+istirahat 1,Kelas 10,tempat wudu,hidup,setengah,Kelas 11,hujan,kecil
+pulang,Kelas 12,tempat wudu,mati,setengah,L.RU,kering,habis
+pagi,Kelas 11,wastafel,kecil,penuh,Kelas 11,kering,lancar
+pagi,Kelas 12,wastafel,hidup,hampir habis,Kelas 11,hujan,kecil
+istirahat 1,Kelas 12,toilet,kecil,setengah,Kelas 11,kering,kecil
+pagi,Kelas 11,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+istirahat 1,Kelas 10,wastafel,mati,penuh,Kelas 10,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,hidup,setengah,Kelas 11,hujan,kecil
+pagi,Kelas 10,tempat wudu,hidup,penuh,Kelas 11,hujan,lancar
+istirahat 2,Kelas 10,tempat wudu,mati,setengah,L.RU,kering,habis
+pagi,Kelas 11,tempat wudu,mati,penuh,L.RU,kering,kecil
+pagi,Kelas 11,wastafel,kecil,penuh,Kelas 11,kering,lancar
+istirahat 2,Kelas 11,wastafel,kecil,setengah,Kelas 12,kering,habis
+pulang,Kelas 10,wastafel,kecil,setengah,L.RU,hujan,kecil
+pagi,Kelas 10,wastafel,kecil,penuh,L.RU,kering,kecil
+istirahat 1,L.RU,toilet,hidup,hampir habis,Kelas 12,kering,habis
+pulang,Kelas 11,toilet,hidup,penuh,Kelas 11,hujan,lancar
+pulang,Kelas 11,wastafel,hidup,setengah,Kelas 12,kering,kecil
+istirahat 2,Kelas 12,wastafel,mati,setengah,Kelas 12,hujan,habis
+istirahat 1,Kelas 11,toilet,hidup,setengah,Kelas 12,kering,kecil
+istirahat 1,Kelas 10,toilet,hidup,setengah,L.RU,hujan,kecil
+istirahat 2,L.RU,tempat wudu,kecil,penuh,Kelas 10,kering,kecil
+istirahat 2,L.RU,toilet,hidup,hampir habis,L.RU,kering,habis
+istirahat 1,Kelas 10,tempat wudu,hidup,penuh,L.RU,kering,lancar
+pagi,Kelas 10,wastafel,kecil,penuh,Kelas 12,kering,kecil
+pagi,Kelas 10,wastafel,hidup,setengah,Kelas 11,kering,lancar
+pulang,Kelas 10,wastafel,kecil,hampir habis,L.RU,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,mati,hampir habis,L.RU,kering,habis
+istirahat 1,L.RU,toilet,hidup,hampir habis,L.RU,hujan,kecil
+istirahat 1,Kelas 10,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+pulang,L.RU,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+pagi,Kelas 10,toilet,mati,setengah,Kelas 10,hujan,kecil
+pagi,Kelas 11,toilet,kecil,hampir habis,Kelas 12,kering,habis
+istirahat 1,L.RU,tempat wudu,kecil,setengah,L.RU,hujan,kecil
+istirahat 1,Kelas 10,toilet,kecil,setengah,Kelas 11,kering,kecil
+istirahat 2,L.RU,toilet,kecil,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 11,wastafel,mati,penuh,Kelas 12,hujan,kecil
+pulang,L.RU,wastafel,kecil,setengah,Kelas 12,kering,habis
+pagi,L.RU,tempat wudu,mati,setengah,L.RU,kering,kecil
+istirahat 2,L.RU,tempat wudu,hidup,hampir habis,Kelas 10,hujan,habis
+istirahat 2,Kelas 10,tempat wudu,hidup,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 10,hujan,habis
+pulang,Kelas 11,wastafel,kecil,setengah,Kelas 11,hujan,kecil
+istirahat 1,Kelas 12,wastafel,kecil,hampir habis,Kelas 10,hujan,habis
+pulang,Kelas 10,tempat wudu,hidup,penuh,Kelas 10,hujan,lancar
+istirahat 1,Kelas 10,tempat wudu,hidup,hampir habis,Kelas 10,hujan,kecil
+istirahat 2,Kelas 10,tempat wudu,kecil,setengah,Kelas 10,kering,kecil
+istirahat 2,L.RU,toilet,hidup,setengah,Kelas 10,hujan,kecil
+pulang,Kelas 12,tempat wudu,mati,penuh,Kelas 10,hujan,kecil
+istirahat 1,L.RU,toilet,hidup,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,wastafel,hidup,setengah,L.RU,kering,kecil
+pagi,Kelas 11,toilet,hidup,hampir habis,L.RU,hujan,kecil
+istirahat 1,L.RU,wastafel,kecil,hampir habis,Kelas 11,kering,habis
+pulang,Kelas 10,tempat wudu,kecil,hampir habis,Kelas 11,kering,habis
+pagi,Kelas 10,wastafel,kecil,setengah,Kelas 10,kering,kecil
+pulang,Kelas 10,tempat wudu,mati,setengah,L.RU,kering,habis
+istirahat 2,L.RU,tempat wudu,hidup,hampir habis,Kelas 11,hujan,habis
+pagi,L.RU,tempat wudu,kecil,hampir habis,Kelas 10,kering,habis
+istirahat 1,L.RU,tempat wudu,hidup,setengah,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,tempat wudu,hidup,hampir habis,L.RU,hujan,habis
+istirahat 1,L.RU,tempat wudu,kecil,setengah,L.RU,kering,kecil
+pagi,Kelas 12,toilet,hidup,hampir habis,Kelas 11,hujan,kecil
+istirahat 2,L.RU,wastafel,kecil,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 11,wastafel,kecil,hampir habis,Kelas 11,hujan,kecil
+pagi,Kelas 11,toilet,kecil,penuh,Kelas 11,hujan,lancar
+istirahat 1,Kelas 10,tempat wudu,kecil,setengah,Kelas 10,kering,kecil
+pagi,Kelas 12,wastafel,kecil,penuh,L.RU,kering,kecil
+istirahat 2,L.RU,toilet,hidup,hampir habis,L.RU,kering,habis
+istirahat 2,L.RU,wastafel,hidup,setengah,Kelas 12,kering,kecil
+istirahat 2,Kelas 10,wastafel,hidup,hampir habis,L.RU,hujan,kecil
+pulang,L.RU,tempat wudu,kecil,hampir habis,Kelas 11,kering,habis
+pulang,Kelas 10,tempat wudu,mati,penuh,Kelas 12,kering,habis
+istirahat 1,Kelas 10,tempat wudu,hidup,setengah,Kelas 12,kering,kecil
+pagi,Kelas 12,tempat wudu,kecil,setengah,Kelas 10,kering,habis
+istirahat 2,Kelas 10,toilet,mati,setengah,L.RU,hujan,habis
+pulang,Kelas 12,wastafel,mati,penuh,Kelas 12,kering,kecil
+pulang,Kelas 12,wastafel,kecil,penuh,Kelas 11,kering,kecil
+pagi,Kelas 12,toilet,kecil,setengah,Kelas 10,kering,kecil
+pagi,L.RU,tempat wudu,kecil,setengah,Kelas 11,hujan,kecil
+pagi,Kelas 12,tempat wudu,mati,setengah,L.RU,kering,kecil
+pagi,Kelas 11,wastafel,hidup,penuh,Kelas 11,kering,lancar
+istirahat 2,Kelas 12,toilet,mati,setengah,Kelas 11,kering,habis
+istirahat 2,Kelas 10,wastafel,hidup,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 12,toilet,mati,setengah,Kelas 10,hujan,kecil
+istirahat 1,Kelas 11,tempat wudu,hidup,hampir habis,Kelas 10,kering,habis
+pulang,L.RU,toilet,hidup,setengah,L.RU,kering,lancar
+istirahat 1,Kelas 10,tempat wudu,hidup,setengah,L.RU,hujan,lancar
+pulang,L.RU,tempat wudu,kecil,hampir habis,Kelas 12,kering,kecil
+pulang,Kelas 12,wastafel,hidup,setengah,Kelas 10,kering,lancar
+istirahat 1,Kelas 10,tempat wudu,hidup,setengah,L.RU,kering,kecil
+pagi,L.RU,toilet,kecil,penuh,L.RU,kering,lancar
+pulang,Kelas 11,toilet,kecil,penuh,Kelas 10,hujan,kecil
+istirahat 2,Kelas 10,wastafel,mati,penuh,Kelas 12,hujan,kecil
+istirahat 1,L.RU,tempat wudu,mati,hampir habis,Kelas 10,hujan,habis
+istirahat 2,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 12,hujan,kecil
+istirahat 2,Kelas 12,wastafel,hidup,penuh,Kelas 10,kering,kecil
+pulang,Kelas 11,wastafel,hidup,penuh,Kelas 12,kering,lancar
+istirahat 1,Kelas 11,toilet,mati,setengah,Kelas 12,kering,habis
+pulang,Kelas 10,wastafel,hidup,setengah,L.RU,hujan,kecil
+pulang,Kelas 11,tempat wudu,kecil,setengah,L.RU,hujan,kecil
+pagi,Kelas 11,tempat wudu,mati,hampir habis,Kelas 12,kering,habis
+pagi,L.RU,toilet,mati,hampir habis,Kelas 12,kering,habis
+istirahat 2,L.RU,tempat wudu,kecil,setengah,L.RU,hujan,kecil
+pagi,Kelas 10,toilet,kecil,hampir habis,Kelas 11,hujan,kecil
+istirahat 1,Kelas 10,tempat wudu,kecil,setengah,Kelas 12,hujan,kecil
+istirahat 1,L.RU,toilet,mati,setengah,Kelas 12,kering,habis
+pulang,L.RU,toilet,hidup,hampir habis,Kelas 10,kering,habis
+pulang,Kelas 12,wastafel,hidup,penuh,Kelas 12,kering,lancar
+pagi,Kelas 10,tempat wudu,kecil,hampir habis,Kelas 11,kering,habis
+pulang,Kelas 11,toilet,hidup,hampir habis,Kelas 12,hujan,kecil
+pagi,Kelas 11,tempat wudu,kecil,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 11,wastafel,hidup,setengah,Kelas 11,kering,kecil
+pulang,Kelas 11,toilet,mati,setengah,L.RU,kering,kecil
+pulang,Kelas 10,toilet,mati,hampir habis,Kelas 10,kering,habis
+pagi,Kelas 12,tempat wudu,kecil,hampir habis,L.RU,kering,habis
+pulang,Kelas 10,toilet,mati,setengah,Kelas 10,kering,kecil
+pagi,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 12,hujan,lancar
+istirahat 2,Kelas 10,toilet,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,L.RU,wastafel,hidup,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+pagi,L.RU,wastafel,mati,setengah,Kelas 10,kering,kecil
+pulang,Kelas 12,tempat wudu,mati,setengah,Kelas 11,hujan,kecil
+istirahat 1,L.RU,toilet,mati,hampir habis,Kelas 10,hujan,habis
+istirahat 2,L.RU,tempat wudu,mati,hampir habis,L.RU,kering,habis
+istirahat 1,Kelas 11,tempat wudu,hidup,hampir habis,Kelas 11,hujan,kecil
+istirahat 1,Kelas 12,wastafel,mati,setengah,Kelas 12,hujan,kecil
+pulang,Kelas 10,toilet,kecil,hampir habis,Kelas 10,kering,kecil
+pagi,L.RU,wastafel,kecil,penuh,L.RU,kering,lancar
+istirahat 2,L.RU,wastafel,kecil,setengah,L.RU,kering,kecil
+istirahat 2,Kelas 12,wastafel,hidup,setengah,Kelas 12,hujan,lancar
+istirahat 1,Kelas 11,toilet,hidup,hampir habis,Kelas 12,kering,kecil
+istirahat 1,L.RU,wastafel,hidup,hampir habis,L.RU,kering,kecil
+pagi,Kelas 10,toilet,hidup,hampir habis,L.RU,hujan,kecil
+pulang,Kelas 10,toilet,kecil,setengah,L.RU,hujan,kecil
+pulang,L.RU,toilet,mati,setengah,Kelas 10,kering,habis
+pagi,Kelas 12,toilet,kecil,setengah,Kelas 12,hujan,lancar
+pagi,Kelas 11,toilet,kecil,setengah,L.RU,kering,kecil
+pagi,L.RU,tempat wudu,kecil,penuh,Kelas 12,hujan,kecil
+pagi,Kelas 11,toilet,kecil,setengah,L.RU,kering,kecil
+pulang,Kelas 10,toilet,hidup,hampir habis,Kelas 11,kering,kecil
+pulang,L.RU,tempat wudu,mati,hampir habis,Kelas 10,hujan,habis
+pagi,Kelas 10,toilet,hidup,hampir habis,Kelas 12,kering,kecil
+istirahat 2,L.RU,tempat wudu,kecil,setengah,Kelas 10,kering,habis
+pagi,L.RU,wastafel,mati,setengah,Kelas 10,kering,habis
+istirahat 1,Kelas 12,toilet,kecil,penuh,L.RU,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,mati,setengah,Kelas 12,kering,habis
+istirahat 2,L.RU,wastafel,hidup,setengah,Kelas 10,kering,kecil
+pulang,Kelas 12,toilet,mati,setengah,Kelas 10,hujan,kecil
+pagi,Kelas 11,wastafel,kecil,penuh,Kelas 11,hujan,lancar
+pagi,Kelas 12,toilet,mati,hampir habis,Kelas 11,kering,habis
+istirahat 1,Kelas 11,tempat wudu,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,toilet,mati,setengah,Kelas 10,hujan,kecil
+pulang,Kelas 11,toilet,mati,penuh,L.RU,kering,kecil
+pulang,Kelas 11,toilet,kecil,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 11,tempat wudu,mati,setengah,L.RU,kering,habis
+pulang,L.RU,toilet,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,wastafel,kecil,setengah,Kelas 11,kering,kecil
+istirahat 2,L.RU,wastafel,mati,penuh,Kelas 11,hujan,kecil
+istirahat 1,Kelas 10,wastafel,hidup,hampir habis,Kelas 12,hujan,kecil
+pagi,L.RU,wastafel,kecil,penuh,L.RU,kering,kecil
+pulang,L.RU,wastafel,hidup,setengah,Kelas 12,kering,lancar
+pagi,Kelas 12,wastafel,hidup,penuh,Kelas 12,kering,lancar
+pagi,L.RU,tempat wudu,mati,setengah,Kelas 11,kering,habis
+pagi,Kelas 12,toilet,hidup,setengah,Kelas 11,hujan,lancar
+istirahat 1,L.RU,tempat wudu,hidup,hampir habis,L.RU,kering,habis
+pagi,Kelas 12,tempat wudu,hidup,setengah,L.RU,hujan,kecil
+pagi,Kelas 10,wastafel,kecil,setengah,L.RU,kering,kecil
+istirahat 2,Kelas 11,wastafel,mati,penuh,Kelas 11,kering,kecil
+pulang,Kelas 10,wastafel,mati,penuh,Kelas 10,kering,kecil
+pagi,Kelas 10,toilet,hidup,setengah,L.RU,kering,lancar
+istirahat 1,Kelas 10,tempat wudu,kecil,setengah,L.RU,hujan,kecil
+istirahat 2,Kelas 11,tempat wudu,kecil,setengah,L.RU,kering,habis
+pulang,Kelas 10,wastafel,kecil,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 11,toilet,kecil,hampir habis,Kelas 11,kering,habis
+pulang,Kelas 12,wastafel,hidup,hampir habis,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,wastafel,kecil,setengah,L.RU,hujan,kecil
+istirahat 1,Kelas 10,wastafel,kecil,hampir habis,L.RU,kering,habis
+pagi,L.RU,toilet,kecil,setengah,L.RU,kering,kecil
+pulang,Kelas 10,wastafel,kecil,setengah,Kelas 12,kering,kecil
+pulang,L.RU,toilet,mati,hampir habis,Kelas 11,kering,habis
+pagi,L.RU,toilet,kecil,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 12,tempat wudu,hidup,hampir habis,L.RU,kering,kecil
+pagi,L.RU,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 10,toilet,mati,penuh,Kelas 12,kering,habis
+pulang,Kelas 12,tempat wudu,hidup,hampir habis,L.RU,kering,habis
+pagi,Kelas 12,wastafel,kecil,setengah,Kelas 12,hujan,lancar
+istirahat 1,L.RU,tempat wudu,hidup,hampir habis,Kelas 10,kering,kecil
+pagi,L.RU,wastafel,kecil,hampir habis,L.RU,kering,kecil
+istirahat 2,Kelas 10,tempat wudu,hidup,penuh,Kelas 12,kering,kecil
+pulang,Kelas 11,wastafel,kecil,penuh,Kelas 11,kering,lancar
+pagi,Kelas 12,toilet,hidup,penuh,Kelas 11,hujan,lancar
+istirahat 1,L.RU,toilet,kecil,setengah,L.RU,kering,kecil
+pulang,L.RU,toilet,mati,penuh,Kelas 10,kering,kecil
+istirahat 1,Kelas 10,tempat wudu,hidup,hampir habis,Kelas 11,hujan,kecil
+pagi,Kelas 12,wastafel,mati,setengah,Kelas 11,hujan,kecil
+istirahat 1,L.RU,tempat wudu,mati,hampir habis,L.RU,hujan,habis
+istirahat 2,Kelas 10,toilet,mati,setengah,Kelas 11,kering,habis
+istirahat 2,L.RU,toilet,hidup,setengah,Kelas 12,kering,kecil
+istirahat 1,L.RU,tempat wudu,mati,penuh,Kelas 12,kering,habis
+pulang,Kelas 12,wastafel,hidup,hampir habis,L.RU,kering,kecil
+istirahat 2,L.RU,wastafel,hidup,penuh,Kelas 12,kering,kecil
+istirahat 1,Kelas 10,wastafel,mati,penuh,Kelas 11,hujan,habis
+pulang,Kelas 12,wastafel,kecil,penuh,L.RU,kering,kecil
+pulang,Kelas 11,tempat wudu,kecil,hampir habis,L.RU,kering,habis
+istirahat 1,L.RU,wastafel,hidup,penuh,Kelas 12,kering,lancar
+pagi,Kelas 10,wastafel,mati,setengah,L.RU,kering,habis
+istirahat 2,Kelas 12,toilet,kecil,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 10,toilet,kecil,hampir habis,Kelas 10,hujan,habis
+pagi,Kelas 11,toilet,mati,penuh,Kelas 11,kering,lancar
+istirahat 2,Kelas 11,tempat wudu,hidup,penuh,Kelas 11,hujan,lancar
+pulang,Kelas 11,toilet,hidup,setengah,Kelas 11,kering,lancar
+pagi,L.RU,wastafel,kecil,penuh,Kelas 12,hujan,kecil
+istirahat 2,Kelas 12,wastafel,mati,hampir habis,Kelas 12,kering,habis
+pagi,Kelas 12,toilet,hidup,setengah,L.RU,hujan,kecil
+istirahat 2,L.RU,toilet,hidup,setengah,L.RU,hujan,lancar
+istirahat 1,Kelas 12,tempat wudu,hidup,penuh,L.RU,kering,lancar
+pagi,Kelas 12,wastafel,mati,setengah,Kelas 10,kering,habis
+pulang,Kelas 11,toilet,hidup,penuh,Kelas 10,hujan,lancar
+pagi,Kelas 10,wastafel,kecil,hampir habis,Kelas 12,kering,habis
+istirahat 2,Kelas 10,tempat wudu,mati,penuh,Kelas 10,hujan,kecil
+pagi,Kelas 12,wastafel,hidup,hampir habis,L.RU,hujan,kecil
+pulang,L.RU,toilet,kecil,hampir habis,Kelas 12,hujan,kecil
+istirahat 2,Kelas 12,tempat wudu,kecil,penuh,Kelas 10,kering,habis
+pulang,Kelas 12,toilet,mati,penuh,Kelas 12,kering,kecil
+istirahat 1,Kelas 11,toilet,hidup,setengah,Kelas 12,hujan,kecil
+istirahat 1,Kelas 10,toilet,kecil,penuh,Kelas 12,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,hidup,penuh,Kelas 12,kering,kecil
+pulang,L.RU,tempat wudu,kecil,hampir habis,L.RU,kering,kecil
+pulang,Kelas 12,wastafel,mati,setengah,Kelas 11,hujan,kecil
+pagi,Kelas 10,wastafel,hidup,penuh,Kelas 10,kering,lancar
+istirahat 2,L.RU,wastafel,hidup,setengah,Kelas 11,kering,kecil
+pagi,Kelas 12,toilet,mati,setengah,Kelas 11,kering,habis
+istirahat 1,Kelas 11,toilet,hidup,hampir habis,Kelas 11,hujan,lancar
+pulang,Kelas 11,tempat wudu,hidup,penuh,Kelas 10,kering,lancar
+istirahat 1,L.RU,toilet,kecil,hampir habis,Kelas 12,hujan,habis
+pulang,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 11,hujan,habis
+istirahat 1,Kelas 11,wastafel,hidup,penuh,Kelas 12,hujan,lancar
+pagi,Kelas 12,tempat wudu,kecil,penuh,L.RU,hujan,kecil
+istirahat 1,Kelas 12,wastafel,hidup,setengah,Kelas 12,kering,lancar
+istirahat 2,L.RU,toilet,kecil,hampir habis,Kelas 10,kering,habis
+pulang,L.RU,wastafel,kecil,setengah,Kelas 10,kering,kecil
+istirahat 2,Kelas 12,toilet,kecil,hampir habis,Kelas 12,hujan,kecil
+pulang,Kelas 11,tempat wudu,hidup,hampir habis,Kelas 10,kering,habis
+pulang,Kelas 10,wastafel,mati,hampir habis,Kelas 10,kering,kecil
+pulang,Kelas 10,wastafel,hidup,setengah,Kelas 12,hujan,kecil
+istirahat 2,Kelas 11,toilet,mati,setengah,Kelas 12,kering,habis
+istirahat 1,Kelas 12,toilet,hidup,hampir habis,Kelas 10,hujan,kecil
+istirahat 1,L.RU,wastafel,mati,setengah,Kelas 10,kering,habis
+pagi,Kelas 11,tempat wudu,hidup,hampir habis,L.RU,kering,kecil
+istirahat 1,Kelas 12,wastafel,hidup,penuh,L.RU,kering,lancar
+pulang,Kelas 10,tempat wudu,kecil,penuh,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,wastafel,hidup,hampir habis,Kelas 10,kering,kecil
+pagi,Kelas 12,tempat wudu,hidup,setengah,Kelas 12,hujan,lancar
+istirahat 2,L.RU,wastafel,kecil,penuh,L.RU,kering,kecil
+pulang,Kelas 10,tempat wudu,mati,penuh,Kelas 11,kering,kecil
+pulang,Kelas 10,tempat wudu,hidup,setengah,Kelas 11,hujan,kecil
+istirahat 1,Kelas 12,tempat wudu,mati,hampir habis,Kelas 11,hujan,habis
+istirahat 1,L.RU,toilet,mati,penuh,L.RU,kering,kecil
+istirahat 2,Kelas 10,toilet,mati,penuh,Kelas 10,hujan,kecil
+pagi,L.RU,toilet,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 10,kering,habis
+pagi,Kelas 11,wastafel,kecil,setengah,Kelas 12,kering,kecil
+pulang,Kelas 10,toilet,kecil,hampir habis,Kelas 11,hujan,kecil
+istirahat 2,Kelas 10,wastafel,mati,hampir habis,Kelas 10,kering,habis
+pulang,L.RU,tempat wudu,hidup,setengah,L.RU,kering,lancar
+pulang,Kelas 12,tempat wudu,hidup,hampir habis,L.RU,hujan,kecil
+pulang,Kelas 11,tempat wudu,hidup,hampir habis,Kelas 10,kering,kecil
+pagi,Kelas 10,toilet,mati,setengah,Kelas 10,kering,kecil
+pulang,Kelas 10,tempat wudu,kecil,setengah,Kelas 12,hujan,habis
+pagi,Kelas 11,toilet,kecil,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 11,toilet,mati,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 10,toilet,mati,hampir habis,Kelas 11,kering,habis
+istirahat 1,Kelas 10,toilet,hidup,hampir habis,Kelas 10,hujan,lancar
+pagi,Kelas 11,tempat wudu,mati,setengah,L.RU,kering,kecil
+pagi,Kelas 11,toilet,mati,hampir habis,Kelas 11,kering,habis
+pulang,Kelas 11,tempat wudu,hidup,hampir habis,Kelas 11,kering,kecil
+istirahat 1,L.RU,tempat wudu,mati,penuh,L.RU,kering,kecil
+istirahat 1,Kelas 10,tempat wudu,hidup,penuh,Kelas 10,hujan,lancar
+pulang,Kelas 11,tempat wudu,kecil,setengah,Kelas 11,kering,lancar
+pagi,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 10,kering,habis
+pulang,Kelas 11,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+pulang,Kelas 10,tempat wudu,hidup,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 11,wastafel,hidup,penuh,L.RU,kering,kecil
+pagi,L.RU,tempat wudu,hidup,setengah,Kelas 12,hujan,kecil
+pagi,L.RU,tempat wudu,kecil,setengah,Kelas 11,hujan,kecil
+istirahat 1,Kelas 11,toilet,hidup,penuh,L.RU,kering,lancar
+istirahat 2,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 10,kering,habis
+pagi,Kelas 12,tempat wudu,kecil,penuh,L.RU,kering,kecil
+istirahat 1,Kelas 11,tempat wudu,kecil,hampir habis,Kelas 10,kering,habis
+pagi,L.RU,tempat wudu,kecil,penuh,L.RU,kering,kecil
+istirahat 2,Kelas 12,wastafel,mati,hampir habis,Kelas 11,kering,habis
+pagi,Kelas 10,toilet,hidup,setengah,Kelas 11,hujan,lancar
+istirahat 2,Kelas 10,toilet,mati,penuh,Kelas 11,hujan,kecil
+pagi,Kelas 12,wastafel,hidup,penuh,Kelas 10,kering,lancar
+pagi,Kelas 11,tempat wudu,kecil,penuh,Kelas 10,hujan,kecil
+pagi,Kelas 11,toilet,mati,setengah,L.RU,kering,kecil
+pulang,Kelas 10,tempat wudu,mati,hampir habis,L.RU,kering,habis
+pagi,Kelas 12,wastafel,kecil,setengah,Kelas 10,hujan,kecil
+istirahat 1,Kelas 10,wastafel,kecil,setengah,Kelas 10,kering,lancar
+istirahat 2,Kelas 11,toilet,hidup,setengah,Kelas 11,kering,lancar
+istirahat 2,Kelas 12,tempat wudu,kecil,setengah,L.RU,hujan,kecil
+istirahat 2,Kelas 11,wastafel,mati,hampir habis,Kelas 10,kering,habis
+pulang,L.RU,wastafel,mati,setengah,Kelas 12,hujan,habis
+istirahat 1,Kelas 10,wastafel,kecil,hampir habis,Kelas 12,kering,habis
+pulang,Kelas 10,toilet,hidup,hampir habis,Kelas 12,hujan,kecil
+istirahat 1,Kelas 12,toilet,kecil,setengah,Kelas 10,kering,kecil
+pulang,Kelas 11,wastafel,hidup,penuh,L.RU,kering,lancar
+istirahat 2,Kelas 10,wastafel,hidup,penuh,L.RU,kering,kecil
+istirahat 2,Kelas 11,toilet,hidup,setengah,L.RU,hujan,kecil
+pulang,Kelas 11,wastafel,kecil,setengah,Kelas 12,kering,kecil
+pulang,Kelas 10,tempat wudu,hidup,hampir habis,Kelas 12,hujan,kecil
+pulang,Kelas 10,wastafel,hidup,setengah,Kelas 12,kering,kecil
+istirahat 2,Kelas 12,tempat wudu,hidup,setengah,Kelas 11,kering,kecil
+pagi,Kelas 11,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+istirahat 1,L.RU,wastafel,kecil,setengah,Kelas 10,kering,habis
+pagi,Kelas 11,toilet,hidup,hampir habis,Kelas 12,hujan,kecil
+pulang,Kelas 11,toilet,hidup,penuh,Kelas 12,kering,lancar
+pagi,Kelas 11,tempat wudu,kecil,setengah,Kelas 11,kering,lancar
+pagi,Kelas 11,wastafel,hidup,hampir habis,Kelas 12,kering,kecil
+pagi,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 10,toilet,kecil,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 10,tempat wudu,mati,setengah,Kelas 12,hujan,habis
+pulang,L.RU,toilet,hidup,hampir habis,Kelas 10,kering,kecil
+istirahat 1,Kelas 11,toilet,kecil,setengah,Kelas 12,kering,kecil
+istirahat 1,Kelas 10,toilet,hidup,setengah,Kelas 10,kering,lancar
+pagi,Kelas 10,tempat wudu,mati,penuh,Kelas 10,kering,lancar
+pagi,Kelas 11,toilet,mati,penuh,L.RU,kering,kecil
+istirahat 1,Kelas 10,toilet,kecil,setengah,Kelas 11,kering,kecil
+pulang,Kelas 10,wastafel,kecil,penuh,Kelas 10,kering,lancar
+istirahat 2,Kelas 10,toilet,hidup,hampir habis,Kelas 10,hujan,kecil
+pulang,Kelas 10,toilet,mati,hampir habis,Kelas 11,hujan,habis
+pagi,L.RU,tempat wudu,kecil,hampir habis,L.RU,hujan,habis
+pagi,Kelas 12,toilet,hidup,penuh,L.RU,hujan,lancar
+pulang,L.RU,toilet,kecil,hampir habis,Kelas 12,kering,habis
+pagi,Kelas 10,tempat wudu,kecil,penuh,Kelas 11,hujan,kecil
+pagi,Kelas 11,tempat wudu,mati,setengah,Kelas 11,kering,kecil
+istirahat 1,L.RU,toilet,kecil,hampir habis,L.RU,kering,habis
+pulang,Kelas 11,tempat wudu,kecil,penuh,Kelas 11,kering,lancar
+istirahat 2,Kelas 11,wastafel,kecil,penuh,Kelas 10,kering,kecil
+pagi,Kelas 11,toilet,hidup,penuh,Kelas 11,hujan,lancar
+pulang,Kelas 10,wastafel,hidup,setengah,L.RU,hujan,lancar
+pulang,L.RU,toilet,hidup,hampir habis,Kelas 11,kering,kecil
+pulang,Kelas 12,tempat wudu,mati,penuh,Kelas 11,kering,habis
+pulang,Kelas 10,tempat wudu,kecil,penuh,Kelas 10,kering,lancar
+pagi,Kelas 12,toilet,kecil,setengah,L.RU,kering,kecil
+pulang,L.RU,wastafel,hidup,penuh,Kelas 12,hujan,lancar
+istirahat 1,L.RU,tempat wudu,hidup,hampir habis,Kelas 11,hujan,kecil
+pulang,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 12,wastafel,hidup,hampir habis,Kelas 12,kering,kecil
+pulang,Kelas 12,wastafel,hidup,hampir habis,Kelas 11,kering,kecil
+istirahat 2,Kelas 12,tempat wudu,mati,setengah,L.RU,kering,habis
+istirahat 2,L.RU,wastafel,hidup,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 12,wastafel,hidup,penuh,Kelas 12,kering,lancar
+pulang,Kelas 11,wastafel,kecil,penuh,Kelas 10,kering,kecil
+istirahat 2,L.RU,tempat wudu,mati,hampir habis,Kelas 12,kering,habis
+pagi,L.RU,wastafel,hidup,penuh,L.RU,kering,lancar
+pulang,Kelas 12,toilet,mati,hampir habis,Kelas 10,hujan,habis
+istirahat 2,Kelas 10,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+istirahat 1,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 11,hujan,habis
+istirahat 2,L.RU,toilet,kecil,setengah,L.RU,kering,kecil
+pulang,Kelas 10,wastafel,kecil,setengah,L.RU,kering,kecil
+pulang,Kelas 10,toilet,kecil,hampir habis,Kelas 11,kering,habis
+pulang,Kelas 10,wastafel,kecil,penuh,Kelas 10,hujan,lancar
+istirahat 1,Kelas 11,toilet,kecil,setengah,Kelas 12,kering,kecil
+pulang,Kelas 12,wastafel,hidup,hampir habis,Kelas 12,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 10,kering,kecil
+istirahat 2,Kelas 11,toilet,kecil,hampir habis,Kelas 11,hujan,habis
+istirahat 2,L.RU,wastafel,hidup,penuh,Kelas 10,kering,kecil
+pagi,Kelas 12,tempat wudu,kecil,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 11,wastafel,kecil,setengah,Kelas 11,hujan,kecil
+pagi,Kelas 11,wastafel,mati,penuh,Kelas 10,kering,kecil
+pagi,Kelas 11,tempat wudu,hidup,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 12,toilet,kecil,setengah,Kelas 10,hujan,kecil
+istirahat 1,Kelas 12,tempat wudu,kecil,penuh,Kelas 12,kering,lancar
+pagi,Kelas 11,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 11,wastafel,hidup,penuh,Kelas 10,kering,kecil
+istirahat 2,Kelas 11,toilet,hidup,setengah,Kelas 11,kering,kecil
+pagi,Kelas 10,toilet,hidup,penuh,L.RU,hujan,lancar
+istirahat 1,Kelas 10,toilet,hidup,hampir habis,Kelas 10,kering,kecil
+istirahat 1,Kelas 11,tempat wudu,kecil,penuh,L.RU,kering,kecil
+istirahat 2,L.RU,toilet,kecil,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 10,toilet,hidup,penuh,Kelas 12,kering,lancar
+istirahat 2,Kelas 11,wastafel,hidup,setengah,Kelas 12,kering,kecil
+istirahat 1,Kelas 12,wastafel,hidup,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 11,tempat wudu,kecil,penuh,Kelas 11,hujan,lancar
+istirahat 1,Kelas 10,toilet,hidup,setengah,Kelas 11,kering,kecil
+pagi,Kelas 10,toilet,kecil,hampir habis,Kelas 12,hujan,habis
+istirahat 2,Kelas 11,wastafel,hidup,hampir habis,L.RU,kering,kecil
+pagi,Kelas 11,wastafel,hidup,setengah,Kelas 11,kering,lancar
+istirahat 1,L.RU,wastafel,mati,penuh,L.RU,hujan,kecil
+pulang,Kelas 11,tempat wudu,hidup,hampir habis,Kelas 11,hujan,kecil
+pulang,Kelas 10,wastafel,hidup,setengah,Kelas 12,kering,kecil
+istirahat 2,Kelas 11,toilet,hidup,penuh,L.RU,kering,lancar
+pulang,Kelas 12,toilet,mati,hampir habis,L.RU,hujan,habis
+pulang,Kelas 12,toilet,kecil,setengah,Kelas 12,kering,kecil
+istirahat 1,Kelas 11,wastafel,kecil,hampir habis,L.RU,kering,habis
+pulang,Kelas 10,toilet,mati,setengah,Kelas 11,kering,habis
+istirahat 1,Kelas 10,wastafel,hidup,setengah,Kelas 11,kering,lancar
+istirahat 1,L.RU,wastafel,mati,penuh,Kelas 10,kering,kecil
+istirahat 2,Kelas 12,wastafel,hidup,hampir habis,Kelas 12,kering,habis
+pulang,Kelas 12,toilet,kecil,penuh,Kelas 12,hujan,lancar
+pulang,Kelas 12,toilet,kecil,hampir habis,Kelas 10,kering,habis
+istirahat 1,Kelas 10,tempat wudu,hidup,hampir habis,L.RU,kering,kecil
+istirahat 2,Kelas 10,tempat wudu,mati,hampir habis,L.RU,hujan,habis
+pagi,Kelas 12,wastafel,hidup,penuh,L.RU,kering,lancar
+pulang,Kelas 11,wastafel,mati,setengah,Kelas 12,kering,habis
+istirahat 2,Kelas 11,toilet,hidup,setengah,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,wastafel,kecil,setengah,Kelas 11,kering,habis
+pulang,Kelas 10,wastafel,mati,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 11,toilet,hidup,setengah,Kelas 12,hujan,kecil
+pagi,Kelas 12,wastafel,mati,hampir habis,Kelas 11,hujan,habis
+istirahat 1,Kelas 10,wastafel,kecil,penuh,Kelas 12,kering,kecil
+pagi,Kelas 12,wastafel,kecil,setengah,Kelas 10,kering,kecil
+istirahat 2,L.RU,wastafel,hidup,penuh,Kelas 11,hujan,kecil
+pagi,Kelas 10,toilet,kecil,hampir habis,Kelas 11,kering,kecil
+pagi,Kelas 12,toilet,kecil,penuh,Kelas 10,hujan,kecil
+istirahat 2,Kelas 12,wastafel,kecil,setengah,Kelas 11,kering,habis
+istirahat 2,Kelas 12,wastafel,hidup,hampir habis,Kelas 10,hujan,kecil
+istirahat 2,Kelas 10,wastafel,hidup,setengah,Kelas 12,hujan,kecil
+pulang,Kelas 12,tempat wudu,mati,penuh,Kelas 11,kering,kecil
+pulang,Kelas 12,wastafel,hidup,penuh,Kelas 11,kering,lancar
+pagi,Kelas 12,tempat wudu,kecil,setengah,Kelas 11,hujan,kecil
+pulang,L.RU,tempat wudu,mati,setengah,Kelas 10,kering,habis
+istirahat 2,Kelas 11,tempat wudu,hidup,penuh,Kelas 12,kering,kecil
+istirahat 2,Kelas 12,wastafel,hidup,setengah,L.RU,kering,kecil
+pagi,Kelas 12,tempat wudu,kecil,penuh,Kelas 11,kering,kecil
+istirahat 2,L.RU,wastafel,hidup,setengah,L.RU,kering,kecil
+istirahat 2,Kelas 12,wastafel,kecil,setengah,Kelas 10,kering,habis
+istirahat 2,L.RU,wastafel,kecil,penuh,Kelas 11,kering,kecil
+pagi,Kelas 10,toilet,kecil,penuh,Kelas 10,hujan,lancar
+istirahat 2,Kelas 11,wastafel,hidup,penuh,Kelas 12,kering,lancar
+pulang,Kelas 10,toilet,kecil,penuh,Kelas 11,kering,kecil
+istirahat 2,Kelas 11,toilet,kecil,setengah,Kelas 10,kering,kecil
+pagi,L.RU,tempat wudu,hidup,hampir habis,Kelas 10,hujan,habis
+pulang,Kelas 11,tempat wudu,kecil,hampir habis,Kelas 11,kering,kecil
+pulang,Kelas 11,wastafel,mati,setengah,Kelas 12,hujan,habis
+pagi,Kelas 11,toilet,kecil,setengah,Kelas 10,kering,kecil
+pulang,Kelas 10,tempat wudu,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,tempat wudu,hidup,hampir habis,Kelas 11,hujan,habis
+istirahat 2,Kelas 10,toilet,hidup,penuh,L.RU,hujan,kecil
+istirahat 1,Kelas 10,toilet,hidup,setengah,Kelas 12,kering,kecil
+pulang,Kelas 11,tempat wudu,hidup,setengah,Kelas 11,kering,lancar
+pulang,Kelas 10,wastafel,mati,penuh,L.RU,kering,kecil
+pulang,Kelas 10,wastafel,hidup,setengah,Kelas 11,kering,kecil
+pulang,Kelas 10,tempat wudu,mati,hampir habis,Kelas 11,hujan,habis
+pulang,L.RU,tempat wudu,hidup,hampir habis,Kelas 12,hujan,kecil
+pagi,Kelas 11,wastafel,hidup,penuh,L.RU,kering,lancar
+istirahat 1,Kelas 12,wastafel,kecil,setengah,Kelas 10,kering,kecil
+istirahat 2,Kelas 10,tempat wudu,hidup,setengah,L.RU,kering,kecil
+istirahat 2,Kelas 12,wastafel,mati,setengah,Kelas 11,kering,habis
+pagi,Kelas 11,tempat wudu,mati,setengah,Kelas 11,hujan,kecil
+pagi,L.RU,toilet,mati,penuh,Kelas 10,kering,kecil
+istirahat 2,Kelas 10,tempat wudu,hidup,hampir habis,Kelas 12,kering,habis
+istirahat 2,L.RU,tempat wudu,mati,hampir habis,Kelas 11,kering,habis
+pagi,L.RU,tempat wudu,hidup,hampir habis,Kelas 10,hujan,habis
+pagi,Kelas 10,toilet,mati,hampir habis,L.RU,kering,habis
+pagi,Kelas 10,toilet,kecil,setengah,Kelas 10,kering,lancar
+istirahat 2,Kelas 12,wastafel,hidup,setengah,Kelas 12,kering,kecil
+pagi,L.RU,tempat wudu,hidup,penuh,Kelas 10,kering,lancar
+istirahat 2,Kelas 12,toilet,hidup,setengah,Kelas 12,kering,kecil
+istirahat 1,L.RU,wastafel,hidup,penuh,Kelas 11,kering,kecil
+istirahat 1,L.RU,toilet,mati,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 11,wastafel,mati,setengah,Kelas 10,kering,habis
+istirahat 2,Kelas 12,toilet,mati,setengah,Kelas 11,hujan,habis
+istirahat 2,Kelas 11,toilet,hidup,setengah,L.RU,kering,kecil
+pulang,L.RU,tempat wudu,kecil,hampir habis,L.RU,kering,habis
+pulang,L.RU,toilet,hidup,penuh,Kelas 10,kering,lancar
+pulang,Kelas 10,tempat wudu,kecil,penuh,Kelas 11,hujan,kecil
+istirahat 2,Kelas 10,wastafel,hidup,penuh,Kelas 11,hujan,kecil
+istirahat 1,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 10,hujan,kecil
+pagi,Kelas 10,toilet,kecil,hampir habis,Kelas 10,kering,kecil
+istirahat 2,L.RU,tempat wudu,hidup,penuh,Kelas 11,kering,kecil
+pagi,Kelas 12,wastafel,kecil,hampir habis,Kelas 11,kering,kecil
+pulang,L.RU,wastafel,kecil,setengah,L.RU,kering,kecil
+pulang,L.RU,toilet,hidup,setengah,Kelas 10,kering,kecil
+pagi,Kelas 10,toilet,mati,penuh,Kelas 11,kering,kecil
+pulang,Kelas 10,tempat wudu,kecil,setengah,Kelas 12,kering,habis
+pagi,Kelas 11,toilet,mati,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 12,tempat wudu,kecil,setengah,Kelas 12,kering,kecil
+pagi,Kelas 12,wastafel,kecil,penuh,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,wastafel,kecil,hampir habis,Kelas 10,hujan,kecil
+istirahat 2,Kelas 12,wastafel,mati,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 11,toilet,kecil,setengah,Kelas 12,hujan,kecil
+istirahat 1,L.RU,toilet,hidup,setengah,L.RU,kering,lancar
+pulang,Kelas 12,wastafel,hidup,hampir habis,L.RU,hujan,kecil
+pulang,L.RU,toilet,kecil,penuh,Kelas 10,hujan,kecil
+pagi,Kelas 11,tempat wudu,hidup,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 12,tempat wudu,hidup,setengah,Kelas 12,hujan,lancar
+istirahat 2,L.RU,wastafel,hidup,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 10,wastafel,kecil,penuh,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,toilet,hidup,setengah,Kelas 12,hujan,kecil
+pulang,Kelas 12,toilet,kecil,setengah,L.RU,kering,kecil
+pulang,L.RU,tempat wudu,mati,setengah,Kelas 11,kering,habis
+pulang,Kelas 11,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 10,toilet,hidup,hampir habis,Kelas 10,kering,kecil
+istirahat 1,L.RU,wastafel,kecil,penuh,Kelas 10,kering,habis
+pulang,Kelas 11,tempat wudu,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 12,toilet,kecil,setengah,Kelas 11,kering,kecil
+istirahat 2,Kelas 11,wastafel,kecil,setengah,L.RU,kering,kecil
+istirahat 1,L.RU,toilet,hidup,setengah,Kelas 11,kering,kecil
+istirahat 1,L.RU,toilet,mati,hampir habis,Kelas 12,kering,habis
+pagi,Kelas 10,toilet,hidup,hampir habis,L.RU,kering,kecil
+pulang,Kelas 11,wastafel,mati,penuh,Kelas 12,kering,kecil
+pagi,Kelas 11,toilet,kecil,setengah,Kelas 11,kering,lancar
+pagi,L.RU,toilet,hidup,setengah,Kelas 10,hujan,lancar
+pulang,Kelas 11,tempat wudu,kecil,setengah,Kelas 11,hujan,kecil
+istirahat 2,Kelas 10,tempat wudu,hidup,penuh,Kelas 11,kering,kecil
+istirahat 1,Kelas 11,tempat wudu,mati,setengah,Kelas 12,kering,habis
+istirahat 2,Kelas 12,wastafel,kecil,setengah,L.RU,hujan,habis
+istirahat 1,Kelas 11,wastafel,hidup,penuh,L.RU,hujan,lancar
+pagi,L.RU,tempat wudu,hidup,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 12,wastafel,mati,setengah,Kelas 10,kering,habis
+pagi,L.RU,tempat wudu,hidup,setengah,L.RU,kering,lancar
+istirahat 2,Kelas 12,wastafel,mati,setengah,Kelas 10,kering,habis
+pulang,L.RU,wastafel,mati,hampir habis,Kelas 11,hujan,habis
+pulang,Kelas 11,wastafel,kecil,penuh,L.RU,kering,kecil
+istirahat 1,L.RU,wastafel,hidup,penuh,Kelas 12,kering,kecil
+pulang,L.RU,wastafel,kecil,setengah,Kelas 10,kering,kecil
+istirahat 2,Kelas 11,toilet,mati,setengah,L.RU,hujan,habis
+istirahat 1,Kelas 11,toilet,hidup,setengah,L.RU,kering,kecil
+pagi,L.RU,toilet,hidup,hampir habis,Kelas 12,hujan,kecil
+istirahat 1,Kelas 12,wastafel,hidup,penuh,L.RU,kering,lancar
+istirahat 2,Kelas 10,wastafel,hidup,penuh,Kelas 10,kering,lancar
+pulang,Kelas 10,tempat wudu,kecil,setengah,Kelas 11,kering,habis
+pagi,Kelas 10,wastafel,kecil,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 10,tempat wudu,kecil,hampir habis,Kelas 10,hujan,habis
+pulang,L.RU,wastafel,hidup,hampir habis,L.RU,kering,kecil
+pulang,Kelas 10,tempat wudu,hidup,setengah,Kelas 11,kering,kecil
+istirahat 1,L.RU,wastafel,hidup,hampir habis,Kelas 10,kering,habis
+pagi,L.RU,toilet,mati,hampir habis,L.RU,kering,habis
+istirahat 1,Kelas 10,toilet,kecil,penuh,L.RU,kering,kecil
+pulang,Kelas 11,wastafel,hidup,setengah,Kelas 11,hujan,lancar
+pulang,Kelas 12,tempat wudu,mati,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 10,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+pagi,Kelas 10,tempat wudu,hidup,hampir habis,L.RU,kering,kecil
+pagi,Kelas 12,toilet,hidup,setengah,Kelas 12,kering,lancar
+istirahat 1,Kelas 11,toilet,mati,setengah,Kelas 11,kering,habis
+istirahat 2,Kelas 12,wastafel,kecil,penuh,Kelas 12,kering,kecil
+pagi,Kelas 12,tempat wudu,kecil,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 10,hujan,kecil
+istirahat 2,Kelas 12,toilet,hidup,penuh,Kelas 10,hujan,kecil
+pagi,Kelas 10,tempat wudu,kecil,setengah,Kelas 11,hujan,kecil
+pagi,Kelas 10,tempat wudu,hidup,penuh,Kelas 12,kering,lancar
+istirahat 1,Kelas 10,tempat wudu,mati,penuh,L.RU,kering,habis
+istirahat 2,L.RU,tempat wudu,mati,hampir habis,Kelas 12,hujan,habis
+pulang,Kelas 11,wastafel,kecil,setengah,Kelas 11,kering,lancar
+istirahat 1,Kelas 11,toilet,kecil,setengah,Kelas 12,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,mati,setengah,L.RU,kering,habis
+pulang,L.RU,toilet,kecil,hampir habis,Kelas 12,hujan,habis
+istirahat 1,Kelas 10,tempat wudu,kecil,setengah,Kelas 10,kering,kecil
+istirahat 1,L.RU,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+istirahat 1,Kelas 12,tempat wudu,hidup,setengah,L.RU,kering,kecil
+pagi,Kelas 10,toilet,mati,penuh,Kelas 12,kering,kecil
+istirahat 1,L.RU,wastafel,hidup,hampir habis,Kelas 12,kering,habis
+istirahat 2,Kelas 11,toilet,kecil,penuh,L.RU,kering,kecil
+pulang,Kelas 12,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 12,tempat wudu,kecil,setengah,Kelas 11,hujan,habis
+pulang,L.RU,toilet,kecil,hampir habis,Kelas 11,hujan,habis
+istirahat 2,Kelas 10,tempat wudu,kecil,hampir habis,L.RU,kering,habis
+pagi,L.RU,tempat wudu,hidup,hampir habis,Kelas 10,hujan,kecil
+istirahat 1,Kelas 10,wastafel,hidup,penuh,Kelas 10,kering,lancar
+pulang,Kelas 11,wastafel,hidup,hampir habis,Kelas 10,hujan,kecil
+pagi,Kelas 10,tempat wudu,kecil,hampir habis,Kelas 12,kering,kecil
+pulang,L.RU,wastafel,kecil,penuh,L.RU,kering,kecil
+istirahat 2,Kelas 11,toilet,hidup,setengah,Kelas 11,kering,kecil
+istirahat 1,L.RU,wastafel,mati,hampir habis,Kelas 12,kering,habis
+pulang,L.RU,wastafel,hidup,penuh,Kelas 12,kering,lancar
+pulang,L.RU,tempat wudu,kecil,hampir habis,Kelas 12,kering,habis
+pagi,L.RU,wastafel,kecil,hampir habis,L.RU,kering,kecil
+pagi,Kelas 10,toilet,hidup,penuh,L.RU,kering,lancar
+istirahat 2,Kelas 12,wastafel,kecil,setengah,Kelas 12,kering,kecil
+pulang,Kelas 12,toilet,kecil,setengah,Kelas 11,hujan,kecil
+pagi,L.RU,tempat wudu,hidup,setengah,Kelas 11,kering,kecil
+istirahat 2,L.RU,tempat wudu,mati,hampir habis,Kelas 10,hujan,habis
+pagi,Kelas 10,wastafel,mati,penuh,Kelas 11,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,kecil,setengah,L.RU,kering,habis
+istirahat 2,Kelas 11,wastafel,mati,hampir habis,Kelas 10,kering,habis
+pagi,Kelas 12,toilet,mati,penuh,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,wastafel,hidup,hampir habis,L.RU,kering,habis
+pulang,L.RU,wastafel,kecil,penuh,L.RU,hujan,lancar
+pulang,L.RU,toilet,kecil,setengah,L.RU,kering,kecil
+pagi,L.RU,tempat wudu,hidup,penuh,L.RU,hujan,lancar
+pagi,L.RU,toilet,hidup,hampir habis,Kelas 12,kering,kecil
+pagi,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,toilet,kecil,hampir habis,Kelas 12,kering,habis
+pagi,Kelas 12,wastafel,mati,hampir habis,Kelas 10,hujan,habis
+pulang,Kelas 11,tempat wudu,mati,hampir habis,Kelas 11,kering,habis
+pulang,Kelas 11,toilet,hidup,hampir habis,Kelas 12,kering,kecil
+pulang,Kelas 10,tempat wudu,hidup,setengah,Kelas 10,kering,lancar
+pagi,Kelas 12,wastafel,kecil,hampir habis,Kelas 11,kering,habis
+pagi,L.RU,toilet,kecil,setengah,Kelas 11,hujan,kecil
+pulang,L.RU,toilet,mati,hampir habis,Kelas 12,hujan,habis
+istirahat 1,Kelas 10,toilet,mati,penuh,Kelas 12,hujan,kecil
+istirahat 2,Kelas 10,wastafel,mati,setengah,Kelas 11,hujan,habis
+pulang,Kelas 11,wastafel,mati,hampir habis,Kelas 11,hujan,kecil
+pagi,Kelas 11,tempat wudu,mati,penuh,Kelas 12,kering,kecil
+pagi,Kelas 11,toilet,kecil,penuh,Kelas 11,kering,lancar
+pagi,Kelas 10,wastafel,hidup,hampir habis,Kelas 10,kering,lancar
+pagi,Kelas 10,toilet,hidup,setengah,Kelas 11,kering,kecil
+pagi,Kelas 12,wastafel,hidup,penuh,Kelas 11,kering,lancar
+pulang,L.RU,toilet,hidup,setengah,L.RU,kering,lancar
+istirahat 2,Kelas 11,tempat wudu,hidup,setengah,Kelas 11,hujan,kecil
+pulang,Kelas 11,toilet,mati,setengah,Kelas 11,hujan,kecil
+pulang,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 12,kering,kecil
+pulang,Kelas 11,tempat wudu,mati,hampir habis,Kelas 11,hujan,kecil
+pagi,Kelas 10,wastafel,mati,hampir habis,L.RU,kering,habis
+istirahat 1,Kelas 10,wastafel,kecil,hampir habis,Kelas 12,kering,habis
+pulang,Kelas 10,toilet,kecil,setengah,Kelas 11,kering,kecil
+pagi,Kelas 10,wastafel,hidup,hampir habis,Kelas 10,kering,lancar
+pagi,L.RU,tempat wudu,kecil,penuh,Kelas 12,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,hidup,penuh,Kelas 10,kering,kecil
+pulang,L.RU,wastafel,mati,hampir habis,Kelas 10,kering,habis
+pulang,Kelas 11,wastafel,hidup,hampir habis,Kelas 12,kering,kecil
+pulang,Kelas 12,wastafel,hidup,setengah,Kelas 12,hujan,lancar
+pagi,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 11,kering,habis
+pulang,L.RU,wastafel,kecil,setengah,Kelas 10,kering,kecil
+pulang,Kelas 12,wastafel,kecil,setengah,Kelas 12,kering,kecil
+istirahat 2,L.RU,toilet,kecil,setengah,L.RU,kering,kecil
+pulang,Kelas 10,wastafel,hidup,penuh,Kelas 11,kering,lancar
+pulang,L.RU,toilet,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,L.RU,tempat wudu,hidup,setengah,Kelas 12,kering,kecil
+pagi,L.RU,toilet,hidup,setengah,Kelas 10,kering,kecil
+istirahat 1,L.RU,tempat wudu,hidup,penuh,Kelas 12,kering,lancar
+pagi,Kelas 12,tempat wudu,hidup,hampir habis,L.RU,kering,habis
+pagi,L.RU,toilet,hidup,setengah,Kelas 12,kering,kecil
+pagi,Kelas 10,wastafel,kecil,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 11,wastafel,hidup,penuh,Kelas 11,kering,lancar
+istirahat 2,Kelas 12,wastafel,hidup,setengah,L.RU,kering,kecil
+istirahat 2,Kelas 12,toilet,kecil,hampir habis,Kelas 12,kering,habis
+istirahat 2,L.RU,tempat wudu,hidup,setengah,Kelas 12,kering,habis
+istirahat 2,Kelas 12,tempat wudu,kecil,penuh,L.RU,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,mati,setengah,Kelas 12,kering,habis
+pagi,L.RU,toilet,kecil,setengah,Kelas 10,kering,kecil
+pulang,Kelas 10,tempat wudu,mati,setengah,Kelas 11,kering,habis
+istirahat 1,Kelas 12,wastafel,hidup,setengah,L.RU,kering,kecil
+pagi,Kelas 10,wastafel,hidup,setengah,L.RU,hujan,lancar
+pulang,L.RU,tempat wudu,kecil,setengah,L.RU,hujan,kecil
+istirahat 2,Kelas 12,wastafel,mati,penuh,Kelas 11,hujan,habis
+pagi,Kelas 12,tempat wudu,mati,setengah,Kelas 11,kering,kecil
+pagi,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 12,kering,kecil
+pagi,Kelas 12,tempat wudu,mati,penuh,L.RU,kering,kecil
+istirahat 1,Kelas 12,toilet,hidup,penuh,Kelas 11,kering,kecil
+pagi,Kelas 10,wastafel,hidup,penuh,L.RU,kering,lancar
+istirahat 2,L.RU,toilet,hidup,penuh,Kelas 10,kering,kecil
+istirahat 2,Kelas 11,wastafel,mati,setengah,L.RU,kering,habis
+pulang,L.RU,tempat wudu,hidup,penuh,L.RU,kering,lancar
+istirahat 2,Kelas 10,wastafel,mati,setengah,Kelas 11,kering,habis
+istirahat 2,Kelas 11,toilet,kecil,hampir habis,Kelas 12,kering,habis
+istirahat 2,Kelas 12,wastafel,kecil,hampir habis,Kelas 11,hujan,habis
+pagi,Kelas 10,tempat wudu,kecil,penuh,Kelas 12,kering,kecil
+pagi,Kelas 10,tempat wudu,mati,setengah,Kelas 11,kering,kecil
+istirahat 2,Kelas 11,toilet,hidup,setengah,L.RU,hujan,lancar
+pagi,L.RU,wastafel,hidup,hampir habis,Kelas 10,kering,habis
+pagi,Kelas 11,toilet,kecil,hampir habis,Kelas 12,kering,kecil
+pagi,Kelas 11,wastafel,hidup,penuh,L.RU,kering,lancar
+pulang,Kelas 11,tempat wudu,hidup,penuh,L.RU,kering,kecil
+istirahat 1,Kelas 10,toilet,hidup,setengah,Kelas 12,kering,kecil
+istirahat 2,Kelas 12,toilet,hidup,hampir habis,L.RU,hujan,kecil
+istirahat 1,Kelas 10,toilet,hidup,hampir habis,Kelas 12,hujan,kecil
+pagi,Kelas 11,toilet,hidup,penuh,Kelas 12,hujan,lancar
+istirahat 1,Kelas 10,tempat wudu,mati,setengah,Kelas 11,hujan,habis
+pagi,L.RU,toilet,hidup,penuh,Kelas 11,kering,kecil
+pulang,Kelas 11,tempat wudu,mati,hampir habis,L.RU,hujan,habis
+pagi,L.RU,toilet,mati,hampir habis,Kelas 10,kering,habis
+istirahat 1,Kelas 12,tempat wudu,hidup,setengah,Kelas 12,kering,lancar
+pulang,Kelas 11,wastafel,kecil,penuh,Kelas 12,hujan,lancar
+istirahat 2,Kelas 10,toilet,kecil,setengah,Kelas 10,hujan,kecil
+istirahat 1,Kelas 10,tempat wudu,kecil,setengah,Kelas 12,hujan,kecil
+istirahat 2,Kelas 11,tempat wudu,hidup,hampir habis,Kelas 12,kering,habis
+pulang,Kelas 10,toilet,hidup,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 10,tempat wudu,hidup,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 10,wastafel,kecil,setengah,Kelas 11,kering,habis
+pulang,Kelas 10,toilet,mati,penuh,Kelas 11,hujan,kecil
+istirahat 2,Kelas 12,wastafel,kecil,setengah,Kelas 12,hujan,kecil
+istirahat 1,L.RU,wastafel,kecil,penuh,Kelas 12,kering,kecil
+pagi,Kelas 12,wastafel,mati,setengah,Kelas 11,kering,habis
+pagi,Kelas 10,wastafel,kecil,hampir habis,Kelas 10,kering,kecil
+pulang,Kelas 11,wastafel,hidup,penuh,Kelas 12,kering,lancar
+istirahat 2,L.RU,wastafel,mati,penuh,Kelas 12,kering,habis
+istirahat 1,Kelas 10,tempat wudu,hidup,penuh,Kelas 11,hujan,lancar
+istirahat 1,Kelas 12,wastafel,hidup,penuh,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,toilet,kecil,hampir habis,L.RU,hujan,habis
+istirahat 2,L.RU,toilet,mati,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 11,tempat wudu,hidup,penuh,L.RU,hujan,kecil
+istirahat 1,L.RU,toilet,kecil,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 10,toilet,hidup,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 10,tempat wudu,hidup,hampir habis,L.RU,kering,habis
+pulang,Kelas 11,toilet,hidup,setengah,Kelas 12,hujan,lancar
+pagi,Kelas 11,wastafel,kecil,setengah,L.RU,hujan,kecil
+pagi,Kelas 11,wastafel,mati,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 12,toilet,hidup,hampir habis,Kelas 12,kering,kecil
+istirahat 2,L.RU,wastafel,hidup,hampir habis,L.RU,kering,kecil
+istirahat 2,Kelas 10,wastafel,hidup,setengah,Kelas 11,hujan,kecil
+istirahat 1,L.RU,tempat wudu,hidup,penuh,Kelas 12,kering,kecil
+pulang,L.RU,toilet,kecil,hampir habis,Kelas 10,kering,habis
+istirahat 1,L.RU,toilet,kecil,hampir habis,L.RU,kering,habis
+pagi,Kelas 11,tempat wudu,kecil,setengah,Kelas 10,kering,kecil
+pagi,Kelas 12,toilet,hidup,hampir habis,L.RU,hujan,kecil
+pulang,Kelas 12,tempat wudu,kecil,setengah,Kelas 11,hujan,kecil
+pagi,Kelas 11,wastafel,hidup,setengah,Kelas 12,hujan,lancar
+pulang,Kelas 12,toilet,hidup,setengah,Kelas 12,hujan,lancar
+istirahat 1,L.RU,tempat wudu,mati,hampir habis,Kelas 12,hujan,habis
+pagi,Kelas 12,wastafel,mati,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 12,tempat wudu,mati,setengah,Kelas 12,hujan,kecil
+istirahat 2,L.RU,toilet,mati,setengah,Kelas 12,kering,habis
+istirahat 1,Kelas 10,wastafel,kecil,setengah,Kelas 11,kering,kecil
+pulang,Kelas 12,wastafel,mati,penuh,Kelas 12,hujan,kecil
+istirahat 2,Kelas 10,toilet,kecil,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 12,wastafel,hidup,penuh,Kelas 10,kering,kecil
+istirahat 2,Kelas 12,toilet,hidup,setengah,Kelas 12,kering,kecil
+pulang,Kelas 10,tempat wudu,hidup,penuh,Kelas 10,kering,lancar
+istirahat 1,L.RU,tempat wudu,hidup,setengah,Kelas 10,hujan,kecil
+pagi,Kelas 10,toilet,hidup,hampir habis,L.RU,kering,kecil
+istirahat 1,L.RU,toilet,kecil,penuh,Kelas 10,kering,kecil
+pulang,Kelas 10,wastafel,mati,setengah,Kelas 11,kering,habis
+pagi,Kelas 11,wastafel,kecil,hampir habis,Kelas 12,kering,habis
+pulang,Kelas 10,tempat wudu,hidup,setengah,L.RU,kering,kecil
+istirahat 2,L.RU,toilet,kecil,penuh,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,toilet,hidup,setengah,Kelas 12,kering,kecil
+istirahat 1,Kelas 11,tempat wudu,hidup,setengah,Kelas 12,kering,kecil
+pulang,L.RU,wastafel,hidup,setengah,Kelas 12,kering,kecil
+pagi,L.RU,wastafel,hidup,penuh,L.RU,kering,lancar
+istirahat 1,Kelas 12,wastafel,hidup,setengah,Kelas 10,hujan,kecil
+istirahat 1,L.RU,toilet,mati,setengah,Kelas 12,kering,habis
+istirahat 1,Kelas 10,tempat wudu,mati,setengah,Kelas 12,kering,habis
+istirahat 1,L.RU,tempat wudu,kecil,setengah,Kelas 11,hujan,kecil
+pagi,L.RU,tempat wudu,hidup,penuh,Kelas 12,kering,kecil
+pagi,Kelas 10,toilet,mati,setengah,Kelas 11,kering,kecil
+pagi,Kelas 11,wastafel,kecil,hampir habis,L.RU,hujan,habis
+istirahat 2,L.RU,toilet,hidup,setengah,Kelas 12,kering,kecil
+istirahat 1,L.RU,wastafel,kecil,setengah,L.RU,hujan,kecil
+istirahat 2,L.RU,tempat wudu,kecil,setengah,Kelas 10,hujan,habis
+istirahat 2,Kelas 11,wastafel,kecil,setengah,L.RU,hujan,kecil
+istirahat 2,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 11,hujan,habis
+istirahat 2,L.RU,toilet,kecil,setengah,L.RU,kering,kecil
+istirahat 2,Kelas 10,toilet,hidup,penuh,Kelas 11,hujan,lancar
+istirahat 2,Kelas 10,toilet,hidup,hampir habis,Kelas 12,kering,kecil
+istirahat 2,Kelas 10,wastafel,hidup,hampir habis,Kelas 12,kering,habis
+istirahat 2,L.RU,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+istirahat 1,L.RU,tempat wudu,hidup,penuh,Kelas 12,kering,kecil
+pagi,Kelas 11,wastafel,hidup,penuh,Kelas 10,kering,lancar
+pulang,Kelas 10,wastafel,hidup,setengah,Kelas 11,kering,lancar
+istirahat 1,Kelas 10,toilet,mati,penuh,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,toilet,kecil,penuh,L.RU,kering,kecil
+pagi,Kelas 12,tempat wudu,mati,hampir habis,L.RU,hujan,habis
+istirahat 1,Kelas 11,tempat wudu,hidup,setengah,L.RU,kering,kecil
+istirahat 2,Kelas 10,wastafel,hidup,penuh,Kelas 12,hujan,kecil
+istirahat 2,L.RU,wastafel,kecil,penuh,Kelas 12,hujan,kecil
+istirahat 2,Kelas 12,tempat wudu,hidup,setengah,Kelas 10,hujan,kecil
+istirahat 1,Kelas 12,toilet,mati,setengah,Kelas 12,kering,kecil
+pulang,L.RU,toilet,mati,hampir habis,L.RU,hujan,kecil
+istirahat 2,Kelas 12,wastafel,kecil,penuh,Kelas 12,hujan,lancar
+pulang,Kelas 11,tempat wudu,mati,penuh,L.RU,hujan,kecil
+istirahat 2,L.RU,toilet,kecil,setengah,L.RU,hujan,kecil
+istirahat 2,Kelas 12,tempat wudu,hidup,setengah,Kelas 12,kering,lancar
+pulang,L.RU,wastafel,kecil,setengah,Kelas 10,kering,habis
+pagi,L.RU,toilet,hidup,hampir habis,Kelas 10,hujan,kecil
+pulang,L.RU,toilet,mati,setengah,Kelas 12,kering,habis
+pulang,Kelas 10,tempat wudu,hidup,setengah,Kelas 10,hujan,lancar
+istirahat 2,Kelas 11,wastafel,hidup,hampir habis,Kelas 12,kering,kecil
+istirahat 2,Kelas 10,tempat wudu,kecil,penuh,L.RU,kering,kecil
+istirahat 2,L.RU,tempat wudu,hidup,hampir habis,L.RU,kering,kecil
+istirahat 1,L.RU,wastafel,hidup,setengah,Kelas 10,kering,kecil
+pulang,Kelas 12,toilet,kecil,setengah,Kelas 11,hujan,kecil
+pagi,Kelas 12,toilet,hidup,hampir habis,L.RU,kering,kecil
+istirahat 1,Kelas 12,wastafel,kecil,setengah,L.RU,hujan,kecil
+istirahat 2,L.RU,tempat wudu,hidup,setengah,Kelas 11,kering,habis
+pulang,Kelas 12,tempat wudu,hidup,setengah,Kelas 10,hujan,lancar
+istirahat 1,Kelas 11,tempat wudu,hidup,hampir habis,Kelas 10,kering,habis
+istirahat 1,Kelas 11,tempat wudu,mati,setengah,L.RU,kering,habis
+pagi,L.RU,tempat wudu,mati,penuh,L.RU,kering,kecil
+pagi,Kelas 12,toilet,hidup,hampir habis,L.RU,kering,kecil
+pagi,Kelas 10,tempat wudu,mati,setengah,Kelas 11,hujan,kecil
+pagi,L.RU,tempat wudu,kecil,setengah,L.RU,hujan,kecil
+pulang,L.RU,wastafel,kecil,penuh,L.RU,kering,lancar
+pulang,Kelas 10,tempat wudu,kecil,setengah,Kelas 12,kering,kecil
+pulang,L.RU,wastafel,kecil,penuh,Kelas 10,kering,kecil
+pagi,Kelas 10,tempat wudu,mati,penuh,Kelas 11,kering,habis
+pagi,Kelas 10,tempat wudu,kecil,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 12,wastafel,kecil,penuh,Kelas 12,kering,lancar
+istirahat 2,L.RU,toilet,hidup,setengah,Kelas 12,kering,kecil
+istirahat 1,Kelas 11,wastafel,hidup,hampir habis,Kelas 10,hujan,kecil
+istirahat 1,Kelas 12,wastafel,kecil,setengah,Kelas 11,kering,habis
+pagi,Kelas 12,wastafel,hidup,hampir habis,Kelas 10,kering,kecil
+istirahat 2,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 12,kering,kecil
+istirahat 1,L.RU,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+pagi,Kelas 12,wastafel,hidup,hampir habis,Kelas 12,kering,lancar
+istirahat 2,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 11,kering,habis
+pulang,Kelas 10,toilet,kecil,setengah,Kelas 11,kering,kecil
+pagi,Kelas 10,wastafel,kecil,hampir habis,Kelas 10,hujan,kecil
+istirahat 1,Kelas 11,tempat wudu,hidup,penuh,Kelas 12,hujan,lancar
+pulang,Kelas 10,wastafel,kecil,hampir habis,Kelas 11,hujan,kecil
+istirahat 2,Kelas 10,tempat wudu,hidup,setengah,Kelas 12,kering,kecil
+pulang,Kelas 12,wastafel,kecil,penuh,Kelas 12,kering,lancar
+istirahat 1,Kelas 12,toilet,kecil,setengah,L.RU,kering,habis
+istirahat 1,Kelas 10,tempat wudu,kecil,hampir habis,Kelas 12,kering,habis
+istirahat 2,Kelas 12,wastafel,kecil,setengah,Kelas 12,hujan,kecil
+pagi,Kelas 10,tempat wudu,mati,penuh,L.RU,hujan,kecil
+pagi,Kelas 12,wastafel,mati,penuh,Kelas 12,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,kecil,setengah,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,wastafel,kecil,hampir habis,Kelas 10,kering,kecil
+pagi,L.RU,wastafel,hidup,hampir habis,L.RU,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,mati,setengah,Kelas 10,hujan,habis
+istirahat 1,Kelas 10,wastafel,hidup,penuh,L.RU,kering,lancar
+istirahat 2,L.RU,toilet,hidup,penuh,Kelas 11,kering,kecil
+pulang,L.RU,toilet,mati,setengah,Kelas 11,kering,habis
+pagi,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 11,kering,habis
+pulang,L.RU,wastafel,hidup,hampir habis,Kelas 11,kering,habis
+istirahat 1,Kelas 12,toilet,hidup,setengah,Kelas 10,hujan,lancar
+pulang,Kelas 12,wastafel,hidup,setengah,Kelas 11,kering,kecil
+istirahat 1,L.RU,tempat wudu,kecil,setengah,Kelas 12,kering,habis
+istirahat 1,Kelas 11,wastafel,hidup,setengah,L.RU,kering,kecil
+pulang,Kelas 11,tempat wudu,mati,setengah,Kelas 10,kering,habis
+istirahat 2,Kelas 10,tempat wudu,mati,hampir habis,Kelas 12,kering,habis
+pagi,Kelas 11,wastafel,kecil,setengah,Kelas 12,kering,kecil
+istirahat 2,Kelas 10,wastafel,kecil,hampir habis,Kelas 12,kering,habis
+pulang,Kelas 10,toilet,hidup,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 10,wastafel,hidup,penuh,Kelas 10,hujan,lancar
+pulang,Kelas 12,toilet,kecil,penuh,L.RU,hujan,lancar
+istirahat 2,Kelas 11,wastafel,hidup,setengah,Kelas 12,hujan,kecil
+istirahat 1,Kelas 10,toilet,hidup,setengah,Kelas 11,kering,kecil
+pagi,Kelas 12,tempat wudu,hidup,setengah,L.RU,hujan,lancar
+istirahat 2,Kelas 12,tempat wudu,hidup,hampir habis,L.RU,kering,habis
+pagi,Kelas 12,toilet,kecil,setengah,Kelas 11,kering,kecil
+pulang,Kelas 11,toilet,kecil,hampir habis,Kelas 12,kering,habis
+istirahat 2,Kelas 10,toilet,mati,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 12,tempat wudu,kecil,setengah,Kelas 12,hujan,kecil
+pagi,Kelas 10,tempat wudu,mati,setengah,Kelas 12,kering,habis
+istirahat 2,Kelas 10,toilet,kecil,penuh,Kelas 12,kering,kecil
+pagi,Kelas 10,wastafel,mati,setengah,Kelas 12,hujan,kecil
+istirahat 1,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 12,kering,kecil
+pulang,Kelas 11,toilet,hidup,hampir habis,Kelas 10,hujan,kecil
+pulang,Kelas 10,toilet,mati,setengah,Kelas 12,hujan,kecil
+pulang,Kelas 10,tempat wudu,hidup,setengah,Kelas 12,hujan,lancar
+pulang,Kelas 10,toilet,hidup,hampir habis,L.RU,hujan,kecil
+istirahat 2,Kelas 11,toilet,hidup,hampir habis,Kelas 11,kering,kecil
+pagi,Kelas 10,wastafel,hidup,setengah,Kelas 10,kering,lancar
+pulang,Kelas 11,wastafel,hidup,hampir habis,L.RU,hujan,kecil
+pulang,Kelas 10,tempat wudu,kecil,penuh,L.RU,hujan,kecil
+pulang,Kelas 10,toilet,mati,penuh,L.RU,kering,kecil
+istirahat 2,Kelas 12,toilet,hidup,penuh,Kelas 12,kering,lancar
+pagi,Kelas 10,toilet,kecil,penuh,Kelas 12,kering,kecil
+istirahat 2,L.RU,toilet,hidup,hampir habis,L.RU,kering,kecil
+istirahat 1,Kelas 10,tempat wudu,mati,setengah,Kelas 11,kering,habis
+pulang,Kelas 11,wastafel,hidup,setengah,Kelas 11,hujan,lancar
+istirahat 1,L.RU,wastafel,hidup,setengah,Kelas 11,hujan,kecil
+istirahat 1,Kelas 10,toilet,kecil,setengah,Kelas 11,kering,kecil
+pagi,L.RU,wastafel,kecil,setengah,Kelas 12,kering,habis
+pulang,Kelas 11,wastafel,mati,penuh,Kelas 11,kering,kecil
+pulang,Kelas 11,tempat wudu,kecil,hampir habis,Kelas 11,kering,kecil
+pagi,Kelas 12,toilet,mati,penuh,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,wastafel,hidup,hampir habis,Kelas 10,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,hidup,penuh,Kelas 12,kering,lancar
+istirahat 1,L.RU,toilet,hidup,hampir habis,Kelas 10,kering,habis
+pulang,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 12,kering,kecil
+pagi,Kelas 11,tempat wudu,hidup,penuh,Kelas 11,kering,lancar
+istirahat 1,Kelas 12,tempat wudu,kecil,penuh,Kelas 11,kering,kecil
+pagi,Kelas 12,wastafel,hidup,hampir habis,Kelas 12,kering,kecil
+pagi,Kelas 11,tempat wudu,kecil,setengah,Kelas 11,kering,lancar
+pulang,Kelas 10,toilet,kecil,setengah,Kelas 11,kering,kecil
+pulang,Kelas 11,wastafel,kecil,penuh,Kelas 11,kering,lancar
+pagi,Kelas 12,tempat wudu,kecil,setengah,Kelas 11,kering,kecil
+istirahat 2,Kelas 12,tempat wudu,hidup,setengah,Kelas 10,hujan,kecil
+pagi,Kelas 12,wastafel,hidup,hampir habis,Kelas 11,kering,kecil
+pagi,L.RU,tempat wudu,kecil,setengah,Kelas 12,kering,kecil
+istirahat 1,Kelas 11,toilet,kecil,hampir habis,Kelas 11,kering,habis
+pagi,L.RU,tempat wudu,hidup,hampir habis,Kelas 12,hujan,habis
+istirahat 1,Kelas 11,wastafel,hidup,penuh,Kelas 12,hujan,lancar
+pulang,Kelas 12,tempat wudu,kecil,setengah,Kelas 10,kering,kecil
+istirahat 2,L.RU,tempat wudu,kecil,penuh,L.RU,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,kecil,setengah,Kelas 12,kering,kecil
+pagi,Kelas 12,toilet,mati,setengah,Kelas 12,kering,kecil
+pagi,Kelas 10,toilet,hidup,penuh,Kelas 11,kering,lancar
+istirahat 1,L.RU,toilet,mati,hampir habis,Kelas 12,hujan,habis
+pagi,Kelas 12,tempat wudu,hidup,setengah,L.RU,hujan,kecil
+pulang,Kelas 12,toilet,kecil,setengah,Kelas 11,kering,kecil
+pulang,Kelas 11,wastafel,kecil,setengah,Kelas 11,hujan,lancar
+pulang,Kelas 12,tempat wudu,hidup,penuh,Kelas 11,kering,kecil
+istirahat 2,L.RU,tempat wudu,mati,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 11,wastafel,kecil,setengah,Kelas 10,hujan,kecil
+istirahat 2,L.RU,wastafel,mati,setengah,Kelas 11,kering,habis
+istirahat 1,Kelas 12,tempat wudu,hidup,penuh,Kelas 11,kering,kecil
+istirahat 2,Kelas 11,toilet,mati,setengah,Kelas 12,kering,habis
+pulang,Kelas 12,toilet,mati,setengah,L.RU,kering,habis
+pulang,Kelas 11,wastafel,kecil,setengah,Kelas 10,kering,kecil
+istirahat 2,L.RU,toilet,hidup,hampir habis,Kelas 10,kering,habis
+pagi,L.RU,toilet,kecil,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 10,toilet,kecil,penuh,Kelas 10,kering,lancar
+istirahat 1,Kelas 11,tempat wudu,mati,hampir habis,Kelas 10,kering,habis
+istirahat 2,L.RU,toilet,kecil,setengah,Kelas 10,hujan,habis
+istirahat 2,Kelas 12,wastafel,hidup,hampir habis,Kelas 10,kering,habis
+pulang,L.RU,toilet,hidup,penuh,Kelas 11,kering,kecil
+istirahat 1,Kelas 10,toilet,kecil,setengah,Kelas 11,hujan,kecil
+pulang,L.RU,tempat wudu,mati,setengah,Kelas 10,hujan,habis
+pulang,Kelas 10,wastafel,hidup,setengah,Kelas 12,kering,lancar
+istirahat 1,Kelas 10,tempat wudu,kecil,hampir habis,Kelas 10,hujan,kecil
+istirahat 1,L.RU,tempat wudu,mati,setengah,Kelas 11,hujan,habis
+istirahat 2,Kelas 11,wastafel,hidup,penuh,L.RU,kering,kecil
+pulang,Kelas 12,toilet,hidup,setengah,L.RU,hujan,lancar
+istirahat 2,Kelas 12,toilet,kecil,hampir habis,Kelas 10,hujan,habis
+pulang,Kelas 10,wastafel,kecil,hampir habis,Kelas 10,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+istirahat 2,Kelas 12,wastafel,mati,setengah,L.RU,hujan,habis
+istirahat 1,Kelas 12,toilet,kecil,penuh,Kelas 10,hujan,lancar
+pulang,Kelas 10,toilet,mati,hampir habis,Kelas 11,kering,habis
+istirahat 1,Kelas 12,tempat wudu,mati,hampir habis,Kelas 11,hujan,habis
+istirahat 2,Kelas 11,tempat wudu,mati,setengah,L.RU,hujan,habis
+pagi,L.RU,toilet,kecil,hampir habis,Kelas 10,hujan,habis
+pulang,Kelas 10,tempat wudu,hidup,penuh,Kelas 11,hujan,lancar
+istirahat 1,Kelas 11,tempat wudu,kecil,hampir habis,Kelas 11,kering,habis
+istirahat 1,L.RU,tempat wudu,hidup,penuh,Kelas 12,kering,kecil
+istirahat 2,Kelas 10,wastafel,kecil,penuh,Kelas 10,kering,lancar
+istirahat 1,Kelas 12,wastafel,hidup,setengah,Kelas 11,kering,kecil
+pulang,L.RU,wastafel,kecil,setengah,Kelas 12,kering,habis
+istirahat 2,Kelas 10,tempat wudu,hidup,hampir habis,Kelas 10,hujan,kecil
+istirahat 2,L.RU,toilet,hidup,setengah,Kelas 12,hujan,kecil
+pagi,Kelas 11,toilet,hidup,hampir habis,Kelas 10,kering,kecil
+pagi,L.RU,wastafel,kecil,hampir habis,Kelas 10,hujan,habis
+istirahat 1,Kelas 12,tempat wudu,mati,hampir habis,Kelas 11,kering,habis
+pulang,L.RU,wastafel,hidup,hampir habis,Kelas 11,kering,habis
+pulang,Kelas 12,toilet,mati,setengah,Kelas 11,kering,habis
+istirahat 2,Kelas 12,wastafel,mati,setengah,L.RU,kering,habis
+istirahat 2,Kelas 12,tempat wudu,hidup,penuh,L.RU,kering,kecil
+istirahat 1,Kelas 12,wastafel,kecil,setengah,Kelas 12,hujan,lancar
+pagi,L.RU,wastafel,kecil,hampir habis,Kelas 12,kering,habis
+pagi,Kelas 12,wastafel,hidup,setengah,Kelas 12,kering,lancar
+istirahat 1,Kelas 11,wastafel,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,hidup,penuh,Kelas 12,kering,lancar
+pagi,Kelas 12,toilet,mati,setengah,Kelas 10,hujan,kecil
+istirahat 1,Kelas 11,wastafel,mati,hampir habis,L.RU,hujan,habis
+pagi,Kelas 10,wastafel,mati,setengah,L.RU,kering,habis
+istirahat 2,L.RU,wastafel,kecil,hampir habis,Kelas 10,kering,habis
+pulang,L.RU,wastafel,kecil,setengah,Kelas 10,kering,habis
+istirahat 2,Kelas 10,tempat wudu,mati,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 12,toilet,hidup,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 11,tempat wudu,hidup,setengah,Kelas 11,kering,lancar
+istirahat 1,Kelas 10,wastafel,kecil,penuh,Kelas 10,kering,lancar
+pagi,L.RU,tempat wudu,hidup,setengah,Kelas 11,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,hidup,hampir habis,Kelas 11,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,hidup,setengah,L.RU,kering,kecil
+pagi,Kelas 12,toilet,kecil,penuh,Kelas 10,kering,lancar
+istirahat 1,Kelas 11,wastafel,hidup,hampir habis,L.RU,kering,kecil
+istirahat 1,Kelas 11,wastafel,hidup,penuh,Kelas 12,kering,lancar
+pagi,Kelas 12,toilet,hidup,setengah,Kelas 11,kering,lancar
+istirahat 2,Kelas 10,tempat wudu,hidup,hampir habis,Kelas 12,kering,habis
+istirahat 2,Kelas 12,wastafel,mati,setengah,Kelas 12,hujan,kecil
+istirahat 2,Kelas 10,wastafel,hidup,hampir habis,L.RU,hujan,kecil
+istirahat 2,L.RU,wastafel,kecil,setengah,Kelas 11,kering,habis
+pulang,Kelas 10,tempat wudu,mati,hampir habis,L.RU,hujan,habis
+pulang,L.RU,toilet,hidup,hampir habis,Kelas 12,hujan,kecil
+istirahat 2,L.RU,tempat wudu,mati,hampir habis,Kelas 12,kering,habis
+pulang,Kelas 12,toilet,kecil,penuh,Kelas 11,kering,lancar
+istirahat 1,Kelas 12,toilet,kecil,hampir habis,Kelas 12,kering,kecil
+pulang,L.RU,wastafel,hidup,penuh,Kelas 12,kering,kecil
+pulang,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 12,hujan,kecil
+istirahat 2,L.RU,tempat wudu,mati,penuh,L.RU,kering,habis
+pulang,Kelas 10,toilet,mati,penuh,L.RU,kering,kecil
+istirahat 2,Kelas 11,toilet,mati,hampir habis,Kelas 12,kering,habis
+istirahat 2,Kelas 10,toilet,mati,penuh,Kelas 10,kering,kecil
+istirahat 1,Kelas 11,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+pulang,Kelas 12,wastafel,mati,hampir habis,L.RU,kering,habis
+istirahat 2,L.RU,tempat wudu,kecil,penuh,Kelas 11,kering,kecil
+pulang,L.RU,toilet,mati,penuh,Kelas 12,hujan,kecil
+istirahat 1,Kelas 12,wastafel,hidup,setengah,Kelas 12,kering,kecil
+pulang,Kelas 11,toilet,hidup,penuh,Kelas 11,kering,lancar
+pagi,Kelas 11,toilet,mati,penuh,Kelas 11,hujan,lancar
+pagi,Kelas 10,toilet,mati,penuh,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,wastafel,kecil,setengah,Kelas 10,kering,kecil
+istirahat 2,Kelas 11,wastafel,hidup,setengah,Kelas 11,hujan,lancar
+pulang,Kelas 11,wastafel,hidup,penuh,Kelas 12,kering,lancar
+istirahat 1,L.RU,tempat wudu,mati,setengah,Kelas 10,kering,habis
+istirahat 2,Kelas 11,tempat wudu,kecil,setengah,Kelas 10,kering,habis
+istirahat 2,Kelas 11,wastafel,kecil,penuh,Kelas 11,kering,kecil
+pulang,L.RU,toilet,kecil,setengah,Kelas 11,kering,habis
+istirahat 2,Kelas 10,wastafel,kecil,hampir habis,L.RU,kering,habis
+istirahat 1,Kelas 12,toilet,kecil,setengah,Kelas 10,kering,kecil
+pulang,Kelas 11,tempat wudu,kecil,setengah,Kelas 11,kering,kecil
+pagi,L.RU,wastafel,mati,setengah,Kelas 11,kering,habis
+pulang,L.RU,wastafel,mati,penuh,Kelas 11,kering,habis
+pagi,Kelas 11,wastafel,mati,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 10,tempat wudu,kecil,hampir habis,Kelas 11,hujan,habis
+pulang,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 11,toilet,kecil,penuh,Kelas 10,kering,kecil
+pulang,Kelas 12,wastafel,mati,setengah,Kelas 10,kering,habis
+istirahat 2,L.RU,tempat wudu,kecil,penuh,Kelas 12,kering,habis
+istirahat 2,Kelas 10,tempat wudu,kecil,setengah,Kelas 10,kering,kecil
+istirahat 1,L.RU,tempat wudu,kecil,setengah,Kelas 11,hujan,habis
+pagi,Kelas 11,toilet,kecil,setengah,L.RU,kering,kecil
+pagi,L.RU,tempat wudu,kecil,penuh,L.RU,kering,lancar
+istirahat 1,Kelas 10,toilet,hidup,hampir habis,L.RU,kering,habis
+pagi,Kelas 10,tempat wudu,kecil,penuh,L.RU,hujan,kecil
+istirahat 2,L.RU,wastafel,kecil,penuh,Kelas 11,kering,kecil
+pulang,L.RU,tempat wudu,hidup,hampir habis,Kelas 11,kering,habis
+pulang,Kelas 11,toilet,mati,hampir habis,Kelas 11,hujan,habis
+istirahat 1,Kelas 12,tempat wudu,kecil,setengah,Kelas 10,hujan,kecil
+pulang,L.RU,wastafel,hidup,setengah,Kelas 11,kering,kecil
+pulang,Kelas 10,tempat wudu,mati,penuh,L.RU,hujan,kecil
+pulang,L.RU,tempat wudu,kecil,penuh,Kelas 10,hujan,kecil
+istirahat 1,Kelas 12,tempat wudu,mati,setengah,L.RU,kering,habis
+istirahat 1,Kelas 10,toilet,hidup,setengah,L.RU,hujan,kecil
+pulang,Kelas 12,wastafel,mati,setengah,L.RU,kering,kecil
+pagi,L.RU,wastafel,kecil,penuh,L.RU,kering,lancar
+istirahat 1,L.RU,wastafel,kecil,hampir habis,Kelas 10,kering,habis
+pagi,Kelas 11,toilet,hidup,hampir habis,Kelas 11,hujan,lancar
+pulang,Kelas 11,wastafel,kecil,penuh,Kelas 11,kering,lancar
+istirahat 2,Kelas 12,wastafel,kecil,penuh,Kelas 10,kering,kecil
+pagi,Kelas 12,tempat wudu,kecil,setengah,L.RU,kering,kecil
+pagi,Kelas 12,tempat wudu,kecil,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 11,tempat wudu,mati,hampir habis,Kelas 11,hujan,habis
+istirahat 2,Kelas 10,wastafel,kecil,hampir habis,Kelas 12,hujan,habis
+pulang,Kelas 10,tempat wudu,hidup,setengah,Kelas 10,kering,lancar
+istirahat 1,L.RU,tempat wudu,mati,penuh,L.RU,hujan,kecil
+pulang,Kelas 10,tempat wudu,kecil,setengah,Kelas 10,hujan,lancar
+istirahat 1,Kelas 10,tempat wudu,mati,penuh,L.RU,kering,habis
+pulang,L.RU,toilet,mati,hampir habis,L.RU,kering,habis
+pagi,L.RU,wastafel,mati,penuh,Kelas 10,kering,habis
+pagi,Kelas 11,toilet,mati,setengah,Kelas 12,kering,kecil
+pagi,Kelas 10,wastafel,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 12,toilet,hidup,setengah,Kelas 12,kering,lancar
+pulang,Kelas 10,tempat wudu,kecil,setengah,Kelas 10,hujan,lancar
+pagi,Kelas 12,wastafel,mati,setengah,Kelas 10,kering,habis
+istirahat 1,Kelas 11,toilet,kecil,hampir habis,Kelas 10,hujan,habis
+pagi,L.RU,wastafel,mati,hampir habis,L.RU,hujan,habis
+pulang,L.RU,toilet,hidup,hampir habis,Kelas 10,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+pulang,Kelas 11,tempat wudu,kecil,setengah,Kelas 10,hujan,kecil
+istirahat 2,Kelas 10,toilet,kecil,setengah,L.RU,hujan,kecil
+istirahat 2,Kelas 11,tempat wudu,hidup,setengah,Kelas 11,kering,lancar
+pulang,Kelas 12,toilet,hidup,setengah,Kelas 12,kering,lancar
+pagi,Kelas 10,toilet,mati,setengah,Kelas 12,kering,kecil
+pulang,L.RU,toilet,kecil,penuh,L.RU,hujan,lancar
+istirahat 2,Kelas 10,wastafel,hidup,penuh,L.RU,hujan,lancar
+istirahat 2,Kelas 12,toilet,hidup,hampir habis,Kelas 12,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,kecil,penuh,Kelas 12,kering,kecil
+pulang,Kelas 12,wastafel,hidup,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,kecil,setengah,Kelas 10,hujan,kecil
+pagi,L.RU,toilet,mati,penuh,Kelas 11,hujan,kecil
+pulang,Kelas 10,toilet,hidup,hampir habis,Kelas 11,hujan,kecil
+pagi,L.RU,toilet,kecil,penuh,Kelas 12,kering,kecil
+pagi,L.RU,toilet,hidup,hampir habis,Kelas 11,kering,kecil
+istirahat 2,Kelas 12,tempat wudu,hidup,hampir habis,L.RU,kering,habis
+pagi,Kelas 12,tempat wudu,mati,penuh,Kelas 11,kering,kecil
+pulang,L.RU,toilet,kecil,penuh,Kelas 12,kering,kecil
+istirahat 1,Kelas 11,wastafel,mati,setengah,Kelas 10,hujan,kecil
+pagi,Kelas 11,tempat wudu,hidup,setengah,L.RU,kering,kecil
+pulang,L.RU,toilet,hidup,penuh,L.RU,kering,lancar
+istirahat 2,Kelas 12,toilet,kecil,hampir habis,Kelas 12,hujan,habis
+istirahat 1,Kelas 12,wastafel,kecil,penuh,Kelas 10,kering,kecil
+istirahat 2,Kelas 11,toilet,mati,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 11,tempat wudu,hidup,penuh,Kelas 12,hujan,lancar
+pagi,Kelas 10,tempat wudu,mati,hampir habis,L.RU,kering,habis
+pulang,Kelas 12,tempat wudu,mati,penuh,L.RU,kering,kecil
+istirahat 1,Kelas 10,wastafel,kecil,setengah,Kelas 12,kering,kecil
+istirahat 2,Kelas 12,tempat wudu,hidup,setengah,Kelas 11,hujan,lancar
+pulang,L.RU,tempat wudu,kecil,penuh,L.RU,kering,kecil
+istirahat 2,L.RU,toilet,hidup,hampir habis,Kelas 11,kering,habis
+istirahat 2,Kelas 12,toilet,mati,setengah,L.RU,kering,habis
+istirahat 1,Kelas 10,toilet,kecil,setengah,Kelas 12,kering,kecil
+pagi,Kelas 10,toilet,mati,setengah,Kelas 12,hujan,kecil
+istirahat 1,Kelas 12,toilet,kecil,setengah,Kelas 12,kering,kecil
+pulang,L.RU,wastafel,kecil,penuh,Kelas 10,kering,kecil
+istirahat 2,Kelas 11,wastafel,kecil,penuh,Kelas 10,kering,kecil
+istirahat 1,Kelas 10,toilet,kecil,penuh,Kelas 12,kering,kecil
+pulang,L.RU,wastafel,mati,setengah,Kelas 11,kering,habis
+pulang,Kelas 12,tempat wudu,hidup,penuh,Kelas 11,kering,lancar
+pulang,L.RU,toilet,mati,hampir habis,L.RU,kering,habis
+istirahat 1,L.RU,tempat wudu,mati,setengah,Kelas 11,kering,habis
+istirahat 2,Kelas 11,toilet,mati,setengah,Kelas 11,hujan,habis
+istirahat 2,Kelas 12,wastafel,kecil,setengah,Kelas 10,hujan,kecil
+istirahat 1,L.RU,toilet,mati,setengah,Kelas 12,kering,habis
+istirahat 1,Kelas 11,tempat wudu,hidup,setengah,L.RU,kering,kecil
+pagi,Kelas 11,wastafel,mati,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 12,wastafel,hidup,setengah,Kelas 12,kering,lancar
+istirahat 2,L.RU,wastafel,hidup,setengah,Kelas 11,kering,habis
+pulang,Kelas 12,tempat wudu,kecil,setengah,L.RU,hujan,kecil
+pulang,Kelas 11,toilet,hidup,hampir habis,Kelas 11,hujan,lancar
+pagi,Kelas 12,wastafel,hidup,penuh,Kelas 11,kering,lancar
+istirahat 2,Kelas 10,toilet,mati,setengah,Kelas 11,hujan,habis
+pagi,Kelas 12,wastafel,hidup,penuh,Kelas 10,kering,lancar
+istirahat 2,Kelas 11,tempat wudu,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,L.RU,toilet,hidup,hampir habis,Kelas 10,kering,habis
+istirahat 1,Kelas 12,tempat wudu,mati,penuh,Kelas 11,kering,kecil
+istirahat 2,Kelas 12,tempat wudu,mati,setengah,Kelas 11,hujan,habis
+istirahat 1,Kelas 10,toilet,kecil,setengah,Kelas 11,kering,kecil
+pulang,Kelas 11,toilet,kecil,penuh,Kelas 12,kering,kecil
+istirahat 2,Kelas 10,toilet,mati,hampir habis,Kelas 12,kering,habis
+pulang,Kelas 11,wastafel,mati,setengah,Kelas 12,hujan,kecil
+istirahat 2,Kelas 12,toilet,hidup,hampir habis,Kelas 12,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,kecil,setengah,Kelas 12,kering,kecil
+pulang,L.RU,toilet,mati,hampir habis,L.RU,kering,habis
+istirahat 1,Kelas 12,wastafel,hidup,setengah,Kelas 10,hujan,lancar
+istirahat 2,Kelas 10,tempat wudu,mati,setengah,Kelas 11,kering,habis
+pagi,Kelas 11,wastafel,hidup,hampir habis,Kelas 10,kering,kecil
+pagi,Kelas 12,wastafel,mati,setengah,Kelas 11,hujan,kecil
+istirahat 2,Kelas 10,tempat wudu,hidup,setengah,L.RU,kering,kecil
+pagi,Kelas 10,wastafel,hidup,hampir habis,L.RU,kering,kecil
+pulang,Kelas 10,wastafel,mati,setengah,Kelas 11,kering,habis
+pulang,Kelas 12,tempat wudu,mati,hampir habis,Kelas 12,kering,habis
+istirahat 2,Kelas 10,tempat wudu,mati,setengah,Kelas 10,kering,habis
+istirahat 2,Kelas 10,toilet,mati,hampir habis,Kelas 10,kering,habis
+istirahat 2,Kelas 10,wastafel,kecil,hampir habis,Kelas 11,kering,habis
+pagi,L.RU,wastafel,hidup,setengah,Kelas 10,kering,lancar
+istirahat 1,Kelas 10,wastafel,hidup,setengah,L.RU,kering,kecil
+istirahat 1,L.RU,wastafel,kecil,penuh,Kelas 11,hujan,kecil
+pulang,L.RU,wastafel,hidup,setengah,Kelas 12,kering,kecil
+pagi,Kelas 11,wastafel,mati,hampir habis,Kelas 11,kering,habis
+istirahat 1,L.RU,toilet,hidup,setengah,Kelas 12,kering,kecil
+istirahat 1,Kelas 11,toilet,hidup,penuh,Kelas 11,hujan,lancar
+pagi,Kelas 12,tempat wudu,hidup,setengah,Kelas 12,kering,lancar
+pagi,Kelas 11,toilet,hidup,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 10,toilet,hidup,hampir habis,L.RU,kering,kecil
+pagi,L.RU,tempat wudu,kecil,penuh,L.RU,kering,lancar
+pagi,Kelas 12,toilet,hidup,setengah,Kelas 12,hujan,lancar
+istirahat 1,Kelas 12,wastafel,kecil,hampir habis,Kelas 11,hujan,habis
+pagi,Kelas 11,toilet,mati,hampir habis,L.RU,hujan,habis
+istirahat 2,L.RU,wastafel,kecil,penuh,Kelas 12,kering,habis
+pagi,L.RU,toilet,kecil,hampir habis,Kelas 10,kering,habis
+istirahat 1,Kelas 10,tempat wudu,hidup,setengah,Kelas 11,kering,kecil
+istirahat 1,L.RU,tempat wudu,hidup,hampir habis,L.RU,hujan,kecil
+pulang,Kelas 12,toilet,hidup,penuh,L.RU,hujan,lancar
+istirahat 2,L.RU,wastafel,mati,setengah,Kelas 10,hujan,habis
+pulang,Kelas 10,wastafel,kecil,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,hidup,setengah,Kelas 11,hujan,lancar
+istirahat 1,Kelas 12,tempat wudu,kecil,setengah,L.RU,kering,kecil
+istirahat 1,L.RU,toilet,mati,setengah,L.RU,hujan,kecil
+pulang,Kelas 10,tempat wudu,kecil,setengah,Kelas 11,kering,kecil
+pulang,Kelas 11,wastafel,kecil,penuh,Kelas 10,kering,kecil
+pulang,Kelas 11,tempat wudu,mati,setengah,Kelas 11,kering,kecil
+pulang,Kelas 12,tempat wudu,kecil,penuh,Kelas 11,hujan,kecil
+istirahat 2,Kelas 12,tempat wudu,kecil,hampir habis,Kelas 12,kering,habis
+istirahat 2,Kelas 12,toilet,hidup,hampir habis,Kelas 12,kering,kecil
+pulang,L.RU,toilet,hidup,setengah,L.RU,kering,lancar
+istirahat 1,L.RU,tempat wudu,mati,penuh,Kelas 11,kering,habis
+istirahat 1,Kelas 11,wastafel,kecil,penuh,Kelas 11,hujan,lancar
+pulang,L.RU,wastafel,kecil,setengah,Kelas 11,kering,habis
+istirahat 1,Kelas 10,wastafel,kecil,hampir habis,Kelas 12,kering,habis
+pagi,L.RU,toilet,hidup,setengah,L.RU,hujan,lancar
+istirahat 2,Kelas 12,tempat wudu,mati,penuh,Kelas 10,kering,kecil
+istirahat 1,L.RU,tempat wudu,hidup,penuh,Kelas 12,kering,kecil
+pulang,L.RU,wastafel,mati,penuh,Kelas 12,kering,habis
+pulang,L.RU,wastafel,kecil,hampir habis,L.RU,kering,kecil
+istirahat 1,L.RU,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+istirahat 2,Kelas 11,toilet,hidup,setengah,Kelas 10,kering,kecil
+pulang,Kelas 10,tempat wudu,mati,setengah,L.RU,kering,habis
+istirahat 2,Kelas 12,tempat wudu,hidup,hampir habis,L.RU,hujan,kecil
+pagi,Kelas 10,wastafel,hidup,setengah,Kelas 11,hujan,lancar
+istirahat 2,Kelas 11,wastafel,mati,hampir habis,Kelas 11,hujan,habis
+istirahat 2,Kelas 11,tempat wudu,hidup,hampir habis,Kelas 11,kering,kecil
+istirahat 2,Kelas 11,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+pagi,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 12,hujan,kecil
+istirahat 1,L.RU,wastafel,mati,setengah,Kelas 11,hujan,habis
+pulang,Kelas 11,wastafel,hidup,hampir habis,Kelas 12,kering,habis
+pagi,Kelas 12,tempat wudu,hidup,penuh,Kelas 10,kering,lancar
+istirahat 1,Kelas 12,wastafel,hidup,setengah,L.RU,kering,kecil
+istirahat 1,Kelas 11,toilet,hidup,penuh,Kelas 10,kering,kecil
+pagi,Kelas 11,tempat wudu,hidup,penuh,Kelas 11,kering,lancar
+pagi,Kelas 12,toilet,hidup,penuh,Kelas 10,kering,lancar
+istirahat 1,Kelas 11,tempat wudu,hidup,setengah,Kelas 12,hujan,kecil
+pulang,Kelas 12,tempat wudu,kecil,setengah,L.RU,kering,kecil
+pagi,L.RU,tempat wudu,mati,setengah,Kelas 11,kering,habis
+istirahat 1,Kelas 10,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+pagi,L.RU,tempat wudu,hidup,hampir habis,L.RU,hujan,kecil
+istirahat 2,L.RU,wastafel,mati,hampir habis,Kelas 11,hujan,habis
+istirahat 1,Kelas 10,wastafel,mati,penuh,Kelas 12,kering,kecil
+pulang,L.RU,toilet,kecil,setengah,Kelas 11,kering,kecil
+istirahat 2,Kelas 10,wastafel,hidup,setengah,L.RU,kering,kecil
+pulang,Kelas 10,wastafel,kecil,hampir habis,L.RU,hujan,habis
+istirahat 2,Kelas 11,wastafel,hidup,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,hidup,hampir habis,Kelas 11,hujan,kecil
+pulang,Kelas 12,toilet,hidup,penuh,Kelas 10,kering,lancar
+istirahat 1,Kelas 10,tempat wudu,kecil,setengah,Kelas 10,kering,kecil
+pulang,Kelas 10,toilet,hidup,hampir habis,Kelas 12,kering,kecil
+pulang,Kelas 12,toilet,kecil,setengah,L.RU,kering,kecil
+istirahat 2,L.RU,toilet,hidup,hampir habis,L.RU,kering,habis
+istirahat 2,Kelas 11,wastafel,hidup,penuh,L.RU,kering,kecil
+istirahat 1,Kelas 10,tempat wudu,mati,penuh,Kelas 12,hujan,kecil
+pulang,L.RU,toilet,mati,penuh,Kelas 10,kering,habis
+istirahat 2,Kelas 11,tempat wudu,hidup,penuh,L.RU,hujan,kecil
+pulang,Kelas 10,wastafel,kecil,penuh,Kelas 10,kering,lancar
+istirahat 1,L.RU,toilet,hidup,setengah,Kelas 12,kering,kecil
+pulang,Kelas 11,toilet,hidup,setengah,Kelas 11,hujan,lancar
+istirahat 1,L.RU,toilet,kecil,hampir habis,L.RU,hujan,kecil
+pagi,Kelas 11,tempat wudu,hidup,setengah,L.RU,kering,kecil
+pagi,L.RU,toilet,kecil,penuh,L.RU,hujan,lancar
+istirahat 2,Kelas 10,tempat wudu,kecil,hampir habis,Kelas 12,kering,habis
+istirahat 1,Kelas 12,wastafel,hidup,penuh,L.RU,kering,lancar
+pagi,L.RU,toilet,hidup,hampir habis,Kelas 10,kering,kecil
+istirahat 1,Kelas 12,wastafel,hidup,penuh,Kelas 10,kering,lancar
+istirahat 2,Kelas 11,toilet,mati,setengah,Kelas 11,kering,habis
+istirahat 1,Kelas 12,wastafel,kecil,hampir habis,Kelas 11,kering,habis
+pulang,L.RU,tempat wudu,hidup,setengah,Kelas 12,hujan,kecil
+pulang,Kelas 11,tempat wudu,hidup,setengah,Kelas 10,hujan,lancar
+istirahat 2,Kelas 12,wastafel,kecil,hampir habis,Kelas 10,hujan,habis
+pulang,Kelas 12,toilet,hidup,penuh,Kelas 10,hujan,lancar
+istirahat 1,L.RU,wastafel,kecil,hampir habis,L.RU,kering,kecil
+pagi,Kelas 12,toilet,mati,hampir habis,Kelas 11,kering,habis
+pagi,L.RU,wastafel,kecil,hampir habis,Kelas 11,kering,habis
+pulang,Kelas 11,tempat wudu,hidup,setengah,Kelas 10,kering,kecil
+pulang,Kelas 10,tempat wudu,hidup,setengah,Kelas 12,kering,kecil
+istirahat 2,Kelas 11,wastafel,hidup,hampir habis,L.RU,kering,habis
+pagi,Kelas 11,toilet,kecil,setengah,Kelas 12,kering,kecil
+istirahat 1,L.RU,toilet,mati,setengah,Kelas 11,kering,habis
+pagi,Kelas 11,tempat wudu,hidup,penuh,L.RU,kering,lancar
+pagi,Kelas 12,wastafel,kecil,penuh,Kelas 11,kering,kecil
+pagi,Kelas 10,toilet,kecil,setengah,Kelas 12,kering,kecil
+istirahat 2,Kelas 10,wastafel,hidup,penuh,Kelas 10,hujan,lancar
+pagi,Kelas 12,tempat wudu,hidup,penuh,Kelas 10,kering,lancar
+pulang,L.RU,wastafel,hidup,penuh,Kelas 12,hujan,kecil
+istirahat 1,Kelas 10,tempat wudu,kecil,hampir habis,L.RU,hujan,habis
+istirahat 1,Kelas 11,tempat wudu,kecil,penuh,L.RU,kering,kecil
+istirahat 2,Kelas 10,wastafel,kecil,penuh,Kelas 11,kering,kecil
+pulang,Kelas 12,tempat wudu,mati,setengah,Kelas 12,kering,kecil
+istirahat 1,Kelas 10,wastafel,mati,penuh,Kelas 11,kering,habis
+pagi,Kelas 12,wastafel,mati,hampir habis,L.RU,kering,habis
+pagi,L.RU,wastafel,mati,hampir habis,Kelas 11,hujan,habis
+pulang,Kelas 11,wastafel,mati,setengah,Kelas 10,hujan,habis
+pagi,Kelas 11,tempat wudu,mati,setengah,Kelas 12,kering,habis
+istirahat 2,L.RU,toilet,kecil,setengah,Kelas 11,kering,habis
+istirahat 1,L.RU,toilet,mati,penuh,Kelas 10,kering,habis
+pulang,Kelas 11,toilet,mati,setengah,Kelas 11,hujan,lancar
+pagi,Kelas 11,toilet,kecil,penuh,Kelas 11,kering,lancar
+pulang,Kelas 11,wastafel,kecil,penuh,Kelas 11,kering,lancar
+istirahat 2,L.RU,toilet,kecil,setengah,Kelas 10,hujan,habis
+istirahat 1,Kelas 11,wastafel,mati,penuh,Kelas 11,kering,kecil
+pagi,Kelas 12,tempat wudu,kecil,penuh,L.RU,kering,lancar
+pulang,L.RU,toilet,mati,setengah,Kelas 10,kering,habis
+istirahat 1,Kelas 10,tempat wudu,mati,setengah,Kelas 10,kering,kecil
+istirahat 1,Kelas 10,toilet,mati,penuh,Kelas 11,kering,habis
+istirahat 1,Kelas 12,wastafel,hidup,penuh,Kelas 12,kering,lancar
+pagi,Kelas 10,toilet,kecil,penuh,Kelas 12,kering,kecil
+istirahat 1,Kelas 10,wastafel,mati,penuh,Kelas 10,hujan,kecil
+pagi,Kelas 11,wastafel,mati,hampir habis,Kelas 11,kering,habis
+pagi,L.RU,tempat wudu,mati,hampir habis,L.RU,hujan,habis
+istirahat 1,Kelas 12,toilet,kecil,setengah,Kelas 10,kering,kecil
+pagi,Kelas 12,tempat wudu,kecil,setengah,Kelas 11,hujan,kecil
+istirahat 1,Kelas 11,wastafel,hidup,hampir habis,Kelas 11,kering,kecil
+pulang,Kelas 11,wastafel,mati,setengah,Kelas 12,hujan,habis
+pagi,Kelas 11,wastafel,hidup,penuh,Kelas 10,kering,lancar
+pagi,Kelas 12,tempat wudu,kecil,penuh,Kelas 12,kering,lancar
+pagi,Kelas 12,wastafel,mati,setengah,Kelas 12,kering,kecil
+istirahat 2,Kelas 10,wastafel,kecil,setengah,Kelas 11,kering,habis
+istirahat 1,Kelas 10,tempat wudu,hidup,penuh,L.RU,hujan,kecil
+istirahat 1,Kelas 11,tempat wudu,hidup,setengah,Kelas 10,hujan,kecil
+pagi,L.RU,toilet,mati,setengah,Kelas 12,hujan,habis
+istirahat 1,Kelas 12,tempat wudu,kecil,setengah,Kelas 11,kering,kecil
+istirahat 1,Kelas 12,tempat wudu,hidup,setengah,Kelas 12,hujan,lancar
+istirahat 1,Kelas 11,wastafel,kecil,hampir habis,Kelas 12,hujan,habis
+istirahat 2,Kelas 10,tempat wudu,hidup,setengah,L.RU,kering,habis
+pulang,Kelas 10,wastafel,mati,penuh,Kelas 12,kering,kecil
+istirahat 1,Kelas 10,tempat wudu,hidup,penuh,Kelas 10,kering,lancar
+pulang,Kelas 11,wastafel,hidup,hampir habis,Kelas 12,kering,habis
